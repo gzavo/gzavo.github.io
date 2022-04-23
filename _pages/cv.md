@@ -11,19 +11,19 @@ redirect_from:
 
 Education
 ======
-* 2015, *Ph.D* _Hemodynamic investigation of arteries using the lattice Boltzmann method_, Department of Hydrodynamic Systems, Budapest University of Technology, Hungary
-* 2009, *M.Sc.* _Discretised space-time simulations of graphics accelerators_, Physics of Complex Systems, Faculty of Science, Eötvös Loránd University of Science, Hungary
+* 2015, **Ph.D** _Hemodynamic investigation of arteries using the lattice Boltzmann method_, Department of Hydrodynamic Systems, Budapest University of Technology, Hungary
+* 2009, **M.Sc.** _Discretised space-time simulations of graphics accelerators_, Physics of Complex Systems, Faculty of Science, Eötvös Loránd University of Science, Hungary
 
 Current positions
 =================
-* 2019 -, *Assistant professor*, Computational Science Lab, Informatics Institute, University of Amsterdam, Netherlands
-* 2016 -, *Assistant professor*, Department of Hydrodynamic Systems, Budapest University of Technology, Hungary 
+* 2019 -, **Assistant professor**, Computational Science Lab, Informatics Institute, University of Amsterdam, Netherlands
+* 2016 -, **Assistant professor**, Department of Hydrodynamic Systems, Budapest University of Technology, Hungary 
 
 Previous positions
 ==================
-* 2016 – 2019 	*PostDoctoral fellow* - Computational Science Lab, Informatics Institute, University of Amsterdam, Netherlands
-* 2010 – 2015 	*PhD Candidate* - Department of Hydrodynamic Systems, Budapest University of Technology, Hungary
-* 2009 – 2010 	*Research fellow* - Physics of Complex Systems, Faculty of Science, Eötvös Loránd University of Science, Hungary
+* 2016 – 2019 	**PostDoctoral fellow** - Computational Science Lab, Informatics Institute, University of Amsterdam, Netherlands
+* 2010 – 2015 	**PhD Candidate** - Department of Hydrodynamic Systems, Budapest University of Technology, Hungary
+* 2009 – 2010 	**Research fellow** - Physics of Complex Systems, Faculty of Science, Eötvös Loránd University of Science, Hungary
 
 Fellowships and awards
 ======================
@@ -38,6 +38,7 @@ Grants
 * 2019-, Co-PI, CompBioMed2 (H2020)
 * 2017-2019, Participant, CompBioMed (H2020)
 * 2016, Participant, ComPat (H2020)
+* 2014, Participant, National Brain Research Program
 
 Organisation of scientific meetings
 ===================================
@@ -49,9 +50,9 @@ Organisation of scientific meetings
  
 Memberships of scientific societies
 ===================================
-* 2019 –	Member, Research Network “Amsterdam Data Science”, https://amsterdamdatascience.nl/
-* 2017 –	Member, Virtual Physiological Human Institute, www.vph-institute.org
-* 2016 –	Member, Research Network “ERCOFTAC – Biomedical fluid mechanics (Spetial Interest Group)”, www.ercoftac.org 
+* 2019 –	Member, Research Network “Amsterdam Data Science”, [https://amsterdamdatascience.nl/]
+* 2017 –	Member, Virtual Physiological Human Institute, [www.vph-institute.org]
+* 2016 –	Member, Research Network “ERCOFTAC – Biomedical fluid mechanics (Special Interest Group)”, [www.ercoftac.org] 
 
 Reviewing activities
 ====================
