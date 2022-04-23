@@ -33,6 +33,12 @@ Fellowships and awards
 * 2011	Excellence Travel Grant from the Foundation for Education in Mechanical Engineering, Hungary
 * 2010 – 2015 	GE Healthcare Scholarship, Fully founded 4-year PhD scholarship for outstanding candidates, Hungary
 
+Grants
+======
+* 2019-, Co-PI, CompBioMed2 (H2020)
+* 2017-2019, Participant, CompBioMed (H2020)
+* 2016, Participant, ComPat (H2020)
+
 Organisation of scientific meetings
 ===================================
 * 2021	Co-organiser of the “Multiscale modelling and computation” track at 20th International Conference on Computational Science / 50 participants / Poland
@@ -63,25 +69,11 @@ Teaching activities
 * 2009 – 2010 	Lecturer – Experimental Physics Lab (BSc, 30 students), Eötvös Loránd University of Science, Hungary
 * 2009 – 2010 	Main lecturer, designed the course – Scientific GPU programming (MSc, 30 students), Eötvös Loránd University of Science, Hungary
 
+Institutional responsibilities
+==============================
+* 2021 – 	Member of the programme committee of the “Computational Science” BSc programme, University of Amsterdam
+* 2020 –	PhD Committee member of 4 defences
+* 2019 –	Member of the student admission board (MSc), University of Amsterdam
+* 2019 – 	Examiner, Examining quality of MSc theses and projects, University of Amsterdam
+* 2019 – 	Faculty member, University of Amsterdam, Institute of Informatics, Netherlands
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
