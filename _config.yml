@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personnal site"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Gábor Závodszky"
 description              : &description "personal description"
