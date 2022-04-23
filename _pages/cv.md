@@ -72,7 +72,7 @@ Teaching activities
 
 Institutional responsibilities
 ==============================
-* 2021 – 	Member of the programme committee of the “Computational Science” BSc programme, University of Amsterdam
+* 2021 – 	Member of the programme committee of the “Computational Science” MSc programme, University of Amsterdam
 * 2020 –	PhD Committee member of 4 defences
 * 2019 –	Member of the student admission board (MSc), University of Amsterdam
 * 2019 – 	Examiner, Examining quality of MSc theses and projects, University of Amsterdam
