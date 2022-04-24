@@ -14,9 +14,8 @@ I’m coordinating the development of [HemoCell](https://www.hemocell.eu), the o
 
 Focus in keywords
 =================
-
 <style>
-td, th {
+table, tr, td, th {
    border: none!important;
 }
 </style>
@@ -25,13 +24,7 @@ td, th {
 | Load-balancing               | Blood rheology         |
 | Thrombus formation           | Energy efficiency      | 
 
-
-- High-performance computation
-- Biomedical applications
-- Load-balancing
-- Blood rheology
-- Thrombus formation
-
+<br><br>
 
 Other interests
 ===============
