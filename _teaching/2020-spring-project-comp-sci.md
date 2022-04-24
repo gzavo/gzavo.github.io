@@ -1,5 +1,5 @@
 ---
-title: "Project Computational Science (Bachelor)"
+title: "Project Computational Science"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/project-comp-sci
@@ -7,6 +7,8 @@ venue: "University of Amsterdam, Informatics Institute"
 date: 2020-01-04
 location: "Amsterdam, Netherlands"
 ---
+
+[Course catalog](https://studiegids.uva.nl/xmlpages/page/2021-2022/zoek-vak/vak/89334)
 
 Goal
 =====

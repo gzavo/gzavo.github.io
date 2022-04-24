@@ -1,5 +1,5 @@
 ---
-title: "Stochastic Simulations (Master)"
+title: "Stochastic Simulations"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-stoch-sim
@@ -7,6 +7,8 @@ venue: "University of Amsterdam, Informatics Institute"
 date: 2020-10-01
 location: "Amsterdam, Netherlands"
 ---
+
+[Course ctalog](http://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/88901)
 
 Goals
 =====
