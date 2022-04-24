@@ -1,7 +1,7 @@
 ---
 title: 'Brownian Sound Exploration'
 date: 2022-02-05
-permalink: /posts/2022/2/techno/
+permalink: /posts/2022/2/brownian-sound/
 tags:
   - Music
   - SoundCloud
