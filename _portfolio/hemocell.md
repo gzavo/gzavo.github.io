@@ -4,7 +4,7 @@ excerpt: "HemoCell is an open-source high-fidelity cellular bloodflow simulation
 collection: portfolio
 ---
 
-![/images/hemocell.jpg](HemoCell - 2 mm3 of blood on a cellular level.)
+![HemoCell - 2 mm3 of blood on a cellular level.](/images/hemocell.jpg)
 
 HemoCell has been used in various scenarios, for instance:
 * Platelet aggregation in complex geometries
