@@ -8,7 +8,7 @@ date: 2020-10-01
 location: "Amsterdam, Netherlands"
 ---
 
-[Course ctalog](http://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/88901)
+[Course catalog](http://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/88901)
 
 Goals
 =====
