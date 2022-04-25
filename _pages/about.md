@@ -31,4 +31,4 @@ table, tr, td, th {
 Other interests
 ===============
 
-![AboutMe](/images/about_me.jpg)
+![AboutMe](/images/about_me2.jpg)
