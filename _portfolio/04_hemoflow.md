@@ -1,5 +1,5 @@
 ---
-title: "Hi-fidelity flow simulations in brain arteries."
+title: "High-fidelity flow simulations in brain arteries."
 excerpt: "Computing the emerging flow field before and after medical interventions to <br/><img src='/images/medflow3d.jpg'>"
 collection: portfolio
 ---
