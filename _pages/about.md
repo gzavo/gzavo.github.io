@@ -14,6 +14,11 @@ I’m coordinating the development of <a href="https://www.hemocell.eu">HemoCell
 </div>
 <br/>
 
+At a glance
+===========
+
+![At a glance.](/images/project_overview.jpg)
+
 Focus in keywords
 =================
 <style>
