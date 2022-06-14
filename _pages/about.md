@@ -9,8 +9,10 @@ redirect_from:
 ---
 
 <div style="text-align: justify"> 
-I’m an Assistant Professor at the Computational Science Lab of the University of Amsterdam. My research interest and curiosity revolve around unsolved biomedical challenges, with the primary focus on large-scale and coupled problems. In my work I find the interdisciplinary collaboration between scientists and medical professionals to be of central importance. Therefore, I maintain active links and ongoing cooperations with several clinical institutes and experimental groups across Europe. Being embedded in multiple H2020 projects (as participant and co-PI) with computational focus provides me with overview and active connection to many of the top research groups in Europe developing <i>in silico</i> technologies. 
-I’m coordinating the development of <a href="https://www.hemocell.eu">HemoCell</a>, the open-source state-of-the-art high-performance cellular blood flow simulation. This code is currently deployed at more than a dozen HPC centres and it was recently executed on over a quarter-million CPU cores, overcoming significant technological challenges in order to investigate the blood flow and thrombus formation in the event of vessel damage on the cellular level. 
+I’m an Assistant Professor at the Computational Science Lab of the University of Amsterdam, and an Assistant Professor at the Budapest University of Technology. <br>
+My research focuses on high-performance computations in biomedicine, from modelling microfluidic essays to clinical challenges. Research and progress in this domain is defined by the interdisciplinary collaboration between computational scientists, experimentalists, and medical professionals. As such I maintain active links and ongoing cooperations with several clinical institutes and experimental groups across Europe.
+Much of my research is embedded in multiple H2020 projects with computational focus (as participant or co-PI), which provides me with overview and active connection to several of the top research groups in Europe developing <i>in silico</i> technologies. <br>
+Furthermore, I’m coordinating the development of <a href="https://www.hemocell.eu">HemoCell</a>, the open-source state-of-the-art high-performance cellular blood flow simulation. This code was demonstrated to scale efficiently to over 320,000 cores, overcoming significant technological challenges in order to allow for cell-resolved blood flow modelling up to the organ level. 
 </div>
 <br/>
 
