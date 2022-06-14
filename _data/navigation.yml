@@ -2,6 +2,9 @@
 main:
   - title: "Projects"
     url: /portfolio/
+
+  - title: "People"
+    url: /people/
   
   - title: "Publications and talks"
     url: /publications/
