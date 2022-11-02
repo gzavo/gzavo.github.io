@@ -44,7 +44,7 @@ redirect_from:
   </tr>
   <tr>
     <td style="border: none;">
-      <img src="/images/Colleagues_open.jpg" 
+      <img src="/images/Colleagues_Kostis.jpg" 
         width="200"  
         height="auto" />
     </td>
