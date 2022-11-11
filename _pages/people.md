@@ -40,7 +40,7 @@ redirect_from:
         width="200"  
         height="auto" />
     </td>
-    <td style="border: none;"><b>Niksa</b><br><i>PhD researcher</i><br><br>Modelling thrombus growth mechanics.</td>
+    <td style="border: none;"><b>Niksa Mohammadi Bagheri</b><br><i>PhD researcher</i><br><br>Modelling thrombus growth mechanics.</td>
   </tr>
   <tr>
     <td style="border: none;">
@@ -48,7 +48,7 @@ redirect_from:
         width="200"  
         height="auto" />
     </td>
-    <td style="border: none;"><b>Open position</b><br><i>Scientific programmer</i><br><br>HPC code porting from CPU to GPU.</td>
+    <td style="border: none;"><b>Konstantinos Asteriou</b><br><i>Scientific programmer</i><br><br>HPC code porting from CPU to GPU.</td>
   </tr>
 </table>
 
