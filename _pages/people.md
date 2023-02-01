@@ -1,6 +1,6 @@
 ---
 permalink: /people/
-title: "People"
+title: "Personnel"
 author_profile: true
 redirect_from: 
   - /ppl/

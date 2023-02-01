@@ -35,13 +35,18 @@ Fellowships and awards
 
 Grants
 ======
-* 2019-, Co-PI, CompBioMed2 (H2020)
+* 2019-, Co-PI, WP leader, CompBioMed2 (H2020)
 * 2017-2019, Participant, CompBioMed (H2020)
+* 2016–2023, NWO Compute-time Grant, awarded 3 times in 10 million core-hours total, Netherlands
 * 2016, Participant, ComPat (H2020)
 * 2014, Participant, National Brain Research Program
+* 2011-2015, Various visitor grants (HPCEuropa, CISM Visitor Grant, Excellence Travel Grant)
 
 Organisation of scientific meetings
 ===================================
+* 2023	Organiser and chair of “Computational Models for Cellular Mechanics” track at the International Conference on Computational Science 2023, Prague, Czechia
+* 2023	Organiser and chair of “Surrogate modelling” track at the Computational Biomedicine Conference 2023, Munich, Germany
+* 2022	Organiser and chair of “High-performance cellular simulations” track at the Platform for Advanced Scientific Computing 2022, Basel, Switzerland
 * 2021	Co-organiser of the “Multiscale modelling and computation” track at 20th International Conference on Computational Science / 50 participants / Poland
 * 2019 	Organiser, Chair of the Scientific committee of the 19th International Conference on Computational Science/ 350 participants / Portugal
 * 2019 	Main organiser of workshop on “High-performance blood flows” at the International Conference on Computational Science 2019 / 40 participants / Portugal
@@ -50,12 +55,15 @@ Organisation of scientific meetings
  
 Memberships of scientific societies
 ===================================
-* 2019 –	Member, Research Network “Amsterdam Data Science”, [https://amsterdamdatascience.nl/]
-* 2017 –	Member, Virtual Physiological Human Institute, [www.vph-institute.org]
-* 2016 –	Member, Research Network “ERCOFTAC – Biomedical fluid mechanics (Special Interest Group)”, [www.ercoftac.org] 
+* 2022 -  Member, EuroHPC JU Access Resource Committee (EuroHPC ARC) reviewing large-scale access requests to the Tier-0 HPC infrastructure of EU.
+* 2022 -  Member, Simulation based Science community (https://www.sbscommunity.nl/)[https://www.sbscommunity.nl/].
+* 2019 –	Member, Research Network “Amsterdam Data Science”, (https://amsterdamdatascience.nl/)[https://amsterdamdatascience.nl/]
+* 2017 –	Member, Virtual Physiological Human Institute, (www.vph-institute.org)[www.vph-institute.org]
+* 2016 –	Member, Research Network “ERCOFTAC – Biomedical fluid mechanics (Special Interest Group)”, (www.ercoftac.org)[www.ercoftac.org] 
 
 Reviewing activities
 ====================
+* 2022 -  Grant review panel member at International Foundation Big Data and Artificial Intelligence for Human Development - (https://www.ifabfoundation.org)[https://www.ifabfoundation.org] 
 * 2021 – 	Guest editor at the Journal of Computational Science, Elsevier
 * 2017 – 	Reviewer at the International Conference on Computational Science, organised bi-yearly.
 * 2015 –	40+ times invited reviewer at major journals and conferences such as: Physics of Fluids, Frontiers of Physiology, Journal of Biomechanics, Interface Focus, Journal of NeuroInterventional Surgery, CompBioMed conference, etc.
