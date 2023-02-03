@@ -56,14 +56,14 @@ Organisation of scientific meetings
 Memberships of scientific societies
 ===================================
 * 2022 -  Member, EuroHPC JU Access Resource Committee (EuroHPC ARC) reviewing large-scale access requests to the Tier-0 HPC infrastructure of EU.
-* 2022 -  Member, Simulation based Science community (https://www.sbscommunity.nl/)[https://www.sbscommunity.nl/].
-* 2019 –	Member, Research Network “Amsterdam Data Science”, (https://amsterdamdatascience.nl/)[https://amsterdamdatascience.nl/]
-* 2017 –	Member, Virtual Physiological Human Institute, (www.vph-institute.org)[www.vph-institute.org]
-* 2016 –	Member, Research Network “ERCOFTAC – Biomedical fluid mechanics (Special Interest Group)”, (www.ercoftac.org)[www.ercoftac.org] 
+* 2022 -  Member, Simulation based Science community [https://www.sbscommunity.nl/].
+* 2019 –	Member, Research Network “Amsterdam Data Science”, [https://amsterdamdatascience.nl/]
+* 2017 –	Member, Virtual Physiological Human Institute, [www.vph-institute.org]
+* 2016 –	Member, Research Network “ERCOFTAC – Biomedical fluid mechanics (Special Interest Group)”, [www.ercoftac.org] 
 
 Reviewing activities
 ====================
-* 2022 -  Grant review panel member at International Foundation Big Data and Artificial Intelligence for Human Development - (https://www.ifabfoundation.org)[https://www.ifabfoundation.org] 
+* 2022 -  Grant review panel member at International Foundation Big Data and Artificial Intelligence for Human Development - [https://www.ifabfoundation.org] 
 * 2021 – 	Guest editor at the Journal of Computational Science, Elsevier
 * 2017 – 	Reviewer at the International Conference on Computational Science, organised bi-yearly.
 * 2015 –	40+ times invited reviewer at major journals and conferences such as: Physics of Fluids, Frontiers of Physiology, Journal of Biomechanics, Interface Focus, Journal of NeuroInterventional Surgery, CompBioMed conference, etc.
