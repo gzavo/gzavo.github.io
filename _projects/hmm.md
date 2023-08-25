@@ -1,7 +1,7 @@
 ---
 layout: page
-title: HMM
-description: Heterogeneous multi-scale model
+title: Heterogenous multi-scale model
+description: Coupling of high-performance computing models
 img: assets/img/projects/hmm.jpg
 importance: 2
 category: high-performance computing

@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Overview of my current projects.
+description: Overview of my current projects, cathegorized to fundamental science, clinical applications, high-performance computing, quantum gravity, and miscellaneous.
 nav: true
 nav_order: 1
 display_categories: [fundamental science, clinical applications, high-performance computing, quantum gravity, miscellaneous]

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Image-based aggregate model
+title: Image-based aggregate modeling
 description: Building non-homogeneous simulations based on imagery
 img: assets/img/projects/image_plt.jpg
 importance: 3

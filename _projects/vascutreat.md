@@ -1,6 +1,6 @@
 ---
 layout: page
-title: brain aneurysms
+title: CFD of brain aneurysms
 description: Blood flow simulation in patient brain arteries.
 img: /assets/video/cfd_comp.gif
 importance: 2

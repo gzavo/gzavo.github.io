@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mechanics in thrombosis
+title: Flow mechanics in thrombosis
 description: Investigating the role of the mechanical environment
 img: assets/img/projects/platelet_vwf.jpg
 importance: 3

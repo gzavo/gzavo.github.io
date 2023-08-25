@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Virtual stenting
-description: Simulated deployment of brain flow diverters
+description: Virtual treatment planning of flow diverters
 img: assets/video/vstent.gif
 importance: 1
 category: clinical applications

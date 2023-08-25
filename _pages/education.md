@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching
-description: Short description of my current courses.
+permalink: /education/
+title: Education
+description: Short description of my current courses and available thesis projects.
 nav: true
 nav_order: 5
 ---
@@ -44,3 +44,20 @@ The purpose of this intensive, hands-on course is to successfully complete a com
 
 * [2020](https://trello.com/b/7Cwz5cG5/project-computational-scienc-2020)
 * [2021](https://trello.com/b/dEqi6qXW/project-computational-science-2021)
+
+
+---
+
+# Thesis project topics
+
+These thesis topics are available every year, and are embedded in ongoing research project.
+If you are interested, please contact me in email for more details on the specific goals.
+You can also take a look at the [Projects](/projects/) page for some visual representation of similar projects.
+
+* Extreme-resolution fluid dynamics simulation on supercomputers (using lattice Boltzmann).
+* Cellular blood flow simulation in various diseases (diabetes, malaria, thrombosis), based on [HemoCell](https://www.hemocell.eu).
+* Simulation of medical devices and implants, including the implantation procedure.
+* Energy measurement of large-scale supercomputer simulations.
+* Quantum gravity simulations (large-scale Monte-Carlo simulations on complex graphs).
+
+All of these project require proficiency in Python, and some C++ knowledge is also useful for most.
