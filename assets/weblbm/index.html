@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Interactive fluid simulation</title>
 
-<meta name="author" content="Závodszky Gábor">
+<meta name="author" content="Gábor Závodszky">
 <meta name="keywords" content="lattice Boltzmann, LBM, webGL, GPU, CFD">
 <meta name="description" content="Interactive Computational Fluid Dynamics on GPU">
 
@@ -772,7 +772,7 @@ function step() {
 	}
     
     if(hiPerf) {
-    	window.setTimeout(step, 5);		// lower than 5ms latency can kill fast javascript engines
+    	window.setTimeout(step, 0);		// Careful, lower than 5ms latency can kill some javascript engines
     }
     else {
     	requestAnimFrame(step);
@@ -846,7 +846,7 @@ function webGLStart() {
 }
 </script>
 </head>
-<body onload="webGLStart();" style="background-color: rgb(150, 160, 240);">
+<body onload="webGLStart();" style="background-color: rgb(255, 255, 255);">
 	<center>
 	<H2>Interactive fluid simulation on GPU</H2>
 	
