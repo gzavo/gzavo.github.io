@@ -6,7 +6,7 @@ subtitle: University of Amsterdam, <a href='https://computationalscience.nl'>Com
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: true # crops the image to make it circular
   address: >
     High-performance computational solutions for biomedical challenges.
