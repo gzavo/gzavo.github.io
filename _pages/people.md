@@ -10,14 +10,6 @@ nav_order: 2
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-      <img src="/assets/img/Colleagues_Christian.jpeg" 
-        width="120"  
-        height="auto" />
-    </td>
-    <td style="border: none;"><b>Christian Spieker</b><br><i>PhD researcher</i><br><br>High-Performance cellular blood flow simulations. Vascular trauma. Elongational flows.</td>
-  </tr>
-  <tr>
-    <td style="border: none;">
       <img src="/assets/img/Colleagues_Yue.jpg" 
         width="120"  
         height="auto" />
@@ -40,7 +32,15 @@ nav_order: 2
     </td>
     <td style="border: none;"><b>Niksa Mohammadi Bagheri</b><br><i>PhD researcher</i><br><br>Modelling thrombus growth mechanics.</td>
   </tr>
-
+  <tr>
+    <td style="border: none;">
+      <img src="/assets/img/Colleagues_open.jpeg" 
+        width="120"  
+        height="auto" />
+    </td>
+    <td style="border: none;"><b>Frank Otto</b><br><i>PhD researcher</i><br><br>Computational modeling of brain aneurysm treatments.</td>
+  </tr>
+  
 
 
   <tr >
@@ -50,7 +50,14 @@ nav_order: 2
     <td style="border: none;"> <h2>Alumni</h2> </td>
   </tr>
 
-
+  <tr>
+    <td style="border: none;">
+      <img src="/assets/img/Colleagues_Christian.jpeg" 
+        width="120"  
+        height="auto" />
+    </td>
+    <td style="border: none;"><b>Dr. Christian Spieker</b><br><i>PhD researcher</i><br><br>High-Performance cellular blood flow simulations. Vascular trauma. Elongational flows. <a href="https://dare.uva.nl/search?identifier=493e4676-091b-4d2c-a8a4-8adf4aa416a2">Thesis download.</a></td>
+  </tr>
   <tr>
     <td style="border: none;">
       <img src="/assets/img/Colleagues_Kostis.jpg" 
@@ -65,7 +72,7 @@ nav_order: 2
         width="120"  
         height="auto" />
     </td>
-    <td style="border: none;"><b>Britt van Rooij</b><br><i>PhD researcher</i><br><br>Cellular fluid mechanics of high-shear platelet aggregate formation.</td>
+    <td style="border: none;"><b>Dr. Britt van Rooij</b><br><i>PhD researcher</i><br><br>Cellular fluid mechanics of high-shear platelet aggregate formation. <a href="https://dare.uva.nl/search?identifier=9936a74f-b8d4-4855-bc93-0667daef36d7">Thesis download.</a></td>
   </tr>
   <tr>
     <td style="border: none;">
@@ -73,7 +80,7 @@ nav_order: 2
         width="120"  
         height="auto" />
     </td>
-    <td style="border: none;"><b>Ben Czaja</b><br><i>PhD researcher</i><br><br>Cell resolved flow of healthy and diabetic blood with the lattice Boltzmann method.</td>
+    <td style="border: none;"><b>Dr. Ben Czaja</b><br><i>PhD researcher</i><br><br>Cell resolved flow of healthy and diabetic blood with the lattice Boltzmann method. <a href="https://dare.uva.nl/search?identifier=8f56dd3f-2232-4a21-a88b-163d3df20ac6">Thesis download.</a></td>
   </tr>
   <tr>
     <td style="border: none;">
@@ -81,7 +88,7 @@ nav_order: 2
         width="120"  
         height="auto" />
     </td>
-    <td style="border: none;"><b>Raymond Padmos</b><br><i>PhD researcher</i><br><br>Cerebral blood flow during acute ischemic stroke.</td>
+    <td style="border: none;"><b>Dr. Raymond Padmos</b><br><i>PhD researcher</i><br><br>Cerebral blood flow during acute ischemic stroke. <a href="https://dare.uva.nl/search?identifier=88799f77-1eda-403d-ae7d-81ef8e258f2e">Thesis download.</a></td>
   </tr>
   <tr>
     <td style="border: none;">

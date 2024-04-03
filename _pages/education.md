@@ -8,6 +8,22 @@ nav_order: 5
 ---
 
 
+# Thesis project topics
+
+These thesis topics are available every year, and are embedded in ongoing research projects.
+
+* Extreme-resolution fluid dynamics simulation on supercomputers (HPC, lattice Boltzmann, C++).
+* Cellular blood flow simulation in diseases (diabetes, malaria, thrombosis), based on [HemoCell](https://www.hemocell.eu) (HPC, C++).
+* Simulation of medical devices and implants, including the implantation procedure (Python, VTK).
+* Developing a deformable material simulation for biomedical applications (Python, GPU).
+* Finite element modelling of medical implants (FEM, Python).
+* Energy measurement of large-scale supercomputer simulations (HPC).
+* Quantum gravity simulations, large-scale Monte-Carlo simulations on complex graphs (Python, Causal Dynamical Triangulation).
+
+If you are interested in any of these topics, please contact me in email for more details on the specific goals.
+You can also take a look at the [Projects](/projects/) page for some examples of similar projects.
+
+
 
 --- 
 
@@ -48,16 +64,3 @@ The purpose of this intensive, hands-on course is to successfully complete a com
 
 ---
 
-# Thesis project topics
-
-These thesis topics are available every year, and are embedded in ongoing research project.
-If you are interested, please contact me in email for more details on the specific goals.
-You can also take a look at the [Projects](/projects/) page for some visual representation of similar projects.
-
-* Extreme-resolution fluid dynamics simulation on supercomputers (using lattice Boltzmann).
-* Cellular blood flow simulation in various diseases (diabetes, malaria, thrombosis), based on [HemoCell](https://www.hemocell.eu).
-* Simulation of medical devices and implants, including the implantation procedure.
-* Energy measurement of large-scale supercomputer simulations.
-* Quantum gravity simulations (large-scale Monte-Carlo simulations on complex graphs).
-
-All of these project require proficiency in Python, and some C++ knowledge is also useful for most.
