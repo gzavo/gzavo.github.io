@@ -34,7 +34,7 @@ nav_order: 2
   </tr>
   <tr>
     <td style="border: none;">
-      <img src="/assets/img/Colleagues_open.jpeg" 
+      <img src="/assets/img/Colleagues_open.jpg" 
         width="120"  
         height="auto" />
     </td>
