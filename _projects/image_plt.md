@@ -4,7 +4,7 @@ title: Image-based aggregate modeling
 description: Building non-homogeneous simulations based on imagery
 img: assets/img/projects/image_plt.jpg
 importance: 3
-category: fundamental science
+category: microscale biomedicine
 related_publications: hao2023image
 ---
 

@@ -4,7 +4,7 @@ title: HemoCell development
 description: A high-performance cellular blood flow simulation
 img: assets/video/hemocell.gif
 importance: 1
-category: fundamental science
+category: microscale biomedicine
 related_publications: zavodszky2017cellular, zavodszky2017hemocell, tarksalooyeh2018inflow, de2018numerical, czaja2018cell, zavodszky2019red, tarksalooyeh2019optimizing, van2019identifying, czaja2020influence 
 ---
 

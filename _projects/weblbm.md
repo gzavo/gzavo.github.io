@@ -5,7 +5,7 @@ description: (opens new page!) webGL based interactive 2D lattice Boltzmann simu
 img: assets/img/projects/weblbm.jpg
 redirect: ../assets/weblbm/index.html
 importance: 3
-category: miscellaneous
+category:
 ---
 
 ![LBM in the browser](/assets/img/projects/weblbm.jpg)

@@ -4,7 +4,7 @@ title: Vascular injury
 description: Cellular transport in a punctured vessel.
 img: assets/video/puncture.gif
 importance: 2
-category: fundamental science
+category: microscale biomedicine
 related_publications: spieker2023simulating, spieker2023initial
 ---
 

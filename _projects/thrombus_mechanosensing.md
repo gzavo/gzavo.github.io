@@ -4,7 +4,7 @@ title: Flow mechanics in thrombosis
 description: Investigating the role of the mechanical environment
 img: assets/img/projects/platelet_vwf.jpg
 importance: 3
-category: fundamental science
+category: microscale biomedicine
 related_publications: spieker2021effects, spieker2023initial, spieker2023simulating, kimmerlin2022loss
 ---
 
