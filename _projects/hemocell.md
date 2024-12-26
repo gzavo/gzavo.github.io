@@ -1,7 +1,7 @@
 ---
 layout: page
-title: HemoCell development
-description: A high-performance cellular blood flow simulation
+title: Digital Twin of cellular blood
+description: High-performance microscale simulations with HemoCell
 img: assets/video/hemocell.gif
 importance: 1
 category: microscale biomedicine

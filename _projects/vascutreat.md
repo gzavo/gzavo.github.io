@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CFD of brain aneurysms
-description: Blood flow simulation in patient brain arteries.
+title: Flow prediction in brain aneurysms
+description: Blood flow simulation in patient brain arteries with vitual treatment.
 img: /assets/video/cfd_comp.gif
 importance: 2
 category: clinical applications

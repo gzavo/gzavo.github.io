@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vascular injury
-description: Cellular transport in a punctured vessel.
+title: Cellular model of vascular micro-injury
+description: Predicting the effects of microneedles and mosquito bites
 img: assets/video/puncture.gif
 importance: 2
 category: microscale biomedicine

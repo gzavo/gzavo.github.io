@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Virtual stenting
-description: Virtual treatment planning of flow diverters
+title: Virtual treatment of brain aneurysms
+description: Virtual flow diverter deployment for treatment planning
 img: assets/video/vstent.gif
 importance: 1
 category: clinical applications

@@ -10,11 +10,19 @@ nav_order: 2
 <table style="border: none;">
   <tr>
     <td style="border: none;">
+      <img src="/assets/img/Colleagues_Giulia.jpg" 
+        width="120"  
+        height="auto" />
+    </td>
+    <td style="border: none;"><b>Giulia Pederzani</b><br><i>PostDoc researcher</i><br><br>Finite element modelling of medical imlpants.</td>
+  </tr>
+  <tr>
+    <td style="border: none;">
       <img src="/assets/img/Colleagues_Yue.jpg" 
         width="120"  
         height="auto" />
     </td>
-    <td style="border: none;"><b>Yue Hao</b><br><i>PhD researcher</i><br><br>Flow in platelet aggregate microstructures. Finite element method. Cellular imaging.</td>
+    <td style="border: none;"><b>Yue Hao</b><br><i>PhD researcher</i><br><br>Flow mechanics in the microstructure of platelet aggregates.</td>
   </tr>
   <tr>
     <td style="border: none;">

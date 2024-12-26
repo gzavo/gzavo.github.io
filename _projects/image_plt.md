@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Image-based aggregate modeling
-description: Building non-homogeneous simulations based on imagery
+title: Initial stages of thrombus formation
+description: Combining experimental imaging with flow and structural simulations
 img: assets/img/projects/image_plt.jpg
 importance: 3
 category: microscale biomedicine

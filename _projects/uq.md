@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Uncertainty Quantification
-description: Inverse UQ of the RBC mechanical model of HemoCell
+title: Increase computational model cridibility
+description: Inverse Uncertainty Quantification of RBC mechanics in HemoCell
 img: assets/img/projects/uq.jpg
 importance: 3
 category: microscale biomedicine

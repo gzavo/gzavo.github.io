@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Flow mechanics in thrombosis
-description: Investigating the role of the mechanical environment
+title: Flow mechanics kickstarting thrombosis
+description: Investigating the role of the micro-mechanical environment
 img: assets/img/projects/platelet_vwf.jpg
 importance: 3
 category: microscale biomedicine
