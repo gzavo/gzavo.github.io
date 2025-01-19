@@ -48,6 +48,14 @@ nav_order: 2
     </td>
     <td style="border: none;"><b>Frank Otto</b><br><i>PhD researcher</i><br><br>Computational modeling of brain aneurysm treatments.</td>
   </tr>
+    <tr>
+    <td style="border: none;">
+      <img src="/assets/img/Colleagues_open.jpg" 
+        width="120"  
+        height="auto" />
+    </td>
+    <td style="border: none;"><b>Vera Zut</b><br><i>PhD researcher</i><br><br>Computational design of auxetic materials for clinical implants.</td>
+  </tr>
   
 
 
