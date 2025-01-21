@@ -50,7 +50,7 @@ nav_order: 2
   </tr>
     <tr>
     <td style="border: none;">
-      <img src="/assets/img/Colleagues_open.jpg" 
+      <img src="/assets/img/Colleagues_Vera.jpeg" 
         width="120"  
         height="auto" />
     </td>
