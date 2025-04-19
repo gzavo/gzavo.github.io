@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /people/
-title: People
+permalink: /team/
+title: Team
 description: Colleagues working with me.
 nav: true
 nav_order: 2
@@ -15,14 +15,6 @@ nav_order: 2
         height="auto" />
     </td>
     <td style="border: none;"><b>Giulia Pederzani</b><br><i>PostDoc researcher</i><br><br>Finite element modelling of medical imlpants.</td>
-  </tr>
-  <tr>
-    <td style="border: none;">
-      <img src="/assets/img/Colleagues_Yue.jpg" 
-        width="120"  
-        height="auto" />
-    </td>
-    <td style="border: none;"><b>Yue Hao</b><br><i>PhD researcher</i><br><br>Flow mechanics in the microstructure of platelet aggregates.</td>
   </tr>
   <tr>
     <td style="border: none;">
@@ -56,7 +48,22 @@ nav_order: 2
     </td>
     <td style="border: none;"><b>Vera Zut</b><br><i>PhD researcher</i><br><br>Computational design of auxetic materials for clinical implants.</td>
   </tr>
-  
+  <tr>
+  <td style="border: none;">
+    <img src="/assets/img/Colleagues_open.jpg" 
+      width="120"  
+      height="auto" />
+  </td>
+  <td style="border: none;"><b>Position opening soon.</b><br><i>PostDoc researcher</i><br><br>Vascular Immunology - Leukocyte extravasation.</td>
+  </tr>
+    <tr>
+    <td style="border: none;">
+      <img src="/assets/img/Colleagues_open.jpg" 
+        width="120"  
+        height="auto" />
+    </td>
+    <td style="border: none;"><b>Position opening soon</b><br><i>PhD researcher</i><br><br>ThromboRisk MSCA - cellular processes in thrombosis.</td>
+  </tr>
 
 
   <tr >
@@ -66,6 +73,14 @@ nav_order: 2
     <td style="border: none;"> <h2>Alumni</h2> </td>
   </tr>
 
+<tr>
+    <td style="border: none;">
+      <img src="/assets/img/Colleagues_Yue.jpg" 
+        width="120"  
+        height="auto" />
+    </td>
+    <td style="border: none;"><b>Dr. Yue Hao</b><br><i>PhD researcher</i><br><br>Flow mechanics in the microstructure of platelet aggregates. <a href="https://hdl.handle.net/11245.1/be9270d4-0b39-4094-9e88-761a79bbb18d"> Thesis download.</a> </td>
+  </tr>
   <tr>
     <td style="border: none;">
       <img src="/assets/img/Colleagues_Christian.jpeg" 

@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 I’m an Assistant Professor at the [Computational Science Lab](https://computationalscience.nl) of the University of Amsterdam. My research focuses on the interdisciplinary domain of **high-performance multi-scale models**, with the primary applications derived from the context of **biomedical research**. My overall strategy builds on three pillars: <br>
 
 &emsp;<b>(I)</b> _high-performance computing,_ <br>
-&emsp;<b>(II)</b> _microscale biomedicine,_ <br>
+&emsp;<b>(II)</b> _fundamental biomedicine,_ <br>
 &emsp;<b>(III)</b> _clinical applications._ <br>
 
 These operate in strong synergy to unlock answers that are not possible in a single-domain view. On the one hand the application of high-performance computing techniques allows fundamental investigations (such as cellular-scale mechanisms) in extreme detail. These complement the capabilities of experimental methods and allow access to detail that is not possible with the current measurement technologies. On the other hand, multi-scale computational methods enable the transfer of knowledge from fundamental research towards clinical applications.

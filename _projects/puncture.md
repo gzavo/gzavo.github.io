@@ -4,7 +4,7 @@ title: Cellular model of vascular micro-injury
 description: Predicting the effects of microneedles and mosquito bites
 img: assets/video/puncture.gif
 importance: 2
-category: microscale biomedicine
+category: fundamental biomedicine
 related_publications: spieker2023simulating, spieker2023initial
 ---
 

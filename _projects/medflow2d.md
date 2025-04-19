@@ -4,7 +4,7 @@ title: 2D LBM code
 description: 2D open-source lattice Boltzmann simulation (C/Python) 
 img: assets/video/karman_porous.gif
 importance: 3
-category: miscellaneous
+category: other
 ---
 
 ![medflow2D](/assets/video/karman_porous.gif)

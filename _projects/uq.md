@@ -4,7 +4,7 @@ title: Increased computational model credibility
 description: Inverse Uncertainty Quantification of RBC mechanics in HemoCell
 img: assets/img/projects/uq.jpg
 importance: 3
-category: microscale biomedicine
+category: fundamental biomedicine
 related_publications: de2020inverse
 ---
 

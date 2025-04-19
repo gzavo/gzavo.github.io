@@ -4,7 +4,7 @@ title: Digital Twin of cellular blood
 description: High-performance microscale simulations with HemoCell
 img: assets/video/hemocell.gif
 importance: 1
-category: microscale biomedicine
+category: fundamental biomedicine
 related_publications: zavodszky2017cellular, zavodszky2017hemocell, tarksalooyeh2018inflow, de2018numerical, czaja2018cell, zavodszky2019red, tarksalooyeh2019optimizing, van2019identifying, czaja2020influence 
 ---
 

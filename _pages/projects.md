@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Research
+permalink: /research/
 description: Overview of my current projects, cathegorized to microscale biomedicine, clinical applications, high-performance computing, other, and miscellaneous.
 nav: true
 nav_order: 1
-display_categories: [microscale biomedicine, clinical applications, high-performance computing, other, miscellaneous]
+display_categories: [fundamental biomedicine, clinical applications, high-performance computing, other]
 horizontal: true
 ---
 
