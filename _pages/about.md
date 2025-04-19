@@ -3,16 +3,16 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  <a href='https://computationalscience.nl'>Computational Science Lab</a>
-  <br> University of Amsterdam  
+  High-performance computational solutions for biomedical challenges.
 
 profile:
   align: left
   image: prof_pic2.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    Assistant Professor <br> ... <br>
-    High-performance computational solutions for biomedical challenges.
+    Assistant Professor <br>
+    <a href='https://computationalscience.nl'>Computational Science Lab</a> <br>
+    University of Amsterdam    
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
