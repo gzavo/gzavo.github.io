@@ -21,9 +21,32 @@ These thesis topics are available every year, and are embedded in ongoing resear
 * Quantum gravity simulations, large-scale Monte-Carlo simulations on complex graphs (Python, Causal Dynamical Triangulation).
 
 If you are interested in any of these topics, please contact me in email for more details on the specific goals.
-You can also take a look at the [Projects](/projects/) page for some examples of similar projects.
+You can also take a look at the [Research](/research/) page for some examples of similar projects.
+
+## Example theses
+- [Modeling Turbulence in Fontan Circulation with Extreme Resolution based on the Lattice Boltzmann Method](https://dspace.uba.uva.nl/bitstreams/421c1317-7539-4e36-a1db-312ac5adc3c3/download)
+- [Computational modelling of thrombotic risk in the Fontan circulation](https://dspace.uba.uva.nl/bitstreams/571a156e-6c30-47d6-9180-c0de1562c5fa/download)
 
 
+--- 
+
+# Scientific Computing
+
+Programme: Computational Science Master
+
+[Course catalog](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course)
+
+**Goals**
+
+The course focuses on developing numerical algorithms to solve prototypical partial differential equations. Students will learn how to discretize differential equations using finite difference approximations, analyze the stability and accuracy of finite difference schemes, and implement these schemes in code to solve a variety of scientific and engineering problems. Topics covered include:
+
+- Derivation of finite difference formulas for various derivatives
+- Explicit and implicit finite difference methods for ordinary and partial differential equations
+- Stability analysis techniques, such as the Courant–Friedrichs–Lewy (CFL) condition
+- Accuracy and convergence of finite difference schemes
+- Applications to problems such as heat transfer, fluid flow, and wave propagation
+
+Furthermore, the course provides a brief introduction to advanced numerical methods (finite volume, finite element, and lattice Boltzmann method).
 
 --- 
 
