@@ -2,7 +2,9 @@
 layout: about
 title: About
 permalink: /
-subtitle: University of Amsterdam <br> <a href='https://computationalscience.nl'>Computational Science Lab</a>. 
+subtitle: >
+  <a href='https://computationalscience.nl'>Computational Science Lab</a>
+  <br> University of Amsterdam  
 
 profile:
   align: left
@@ -29,4 +31,10 @@ In both cases the high-performance computing techniques provide the necessary me
 <br><br>
 
 **Current and past projects** <br>
-CompBioMed - (EU Horizon, Co-PI, WP leader, 2020); GEMINI - (EU Horizon, Co-PI, WP leader, 2024); MMD Impulse grant (Co-PI, 2024); Vacular Immunology (Co-PI, 2025); ThromboRisk - (EU MSCA, PI, 2025)
+<small>
+- CompBioMed - (EU Horizon, Co-PI, WP leader, 2020) 
+- GEMINI - (EU Horizon, Co-PI, WP leader, 2024)
+- MMD Impulse grant (Co-PI, 2024)
+- Vacular Immunology (Co-PI, 2025)
+- ThromboRisk - (EU MSCA, PI, 2025)
+</small>
