@@ -31,10 +31,10 @@ In both cases the high-performance computing techniques provide the necessary me
 <br><br>
 
 **Current and past projects** <br>
-<small>
-- CompBioMed - (EU Horizon, Co-PI, WP leader, 2020) 
-- GEMINI - (EU Horizon, Co-PI, WP leader, 2024)
-- MMD Impulse grant (Co-PI, 2024)
-- Vacular Immunology (Co-PI, 2025)
-- ThromboRisk - (EU MSCA, PI, 2025)
-</small>
+
+- <small> CompBioMed - (EU Horizon, Co-PI, WP leader, 2020) </small>
+- <small> GEMINI - (EU Horizon, Co-PI, WP leader, 2024) </small>
+- <small> MMD Impulse grant (Co-PI, 2024) </small>
+- <small> Vacular Immunology (Co-PI, 2025) </small>
+- <small> ThromboRisk - (EU MSCA, PI, 2025) </small>
+
