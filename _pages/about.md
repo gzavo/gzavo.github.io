@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  High-performance computational solutions for biomedical challenges.
+  Computational biomedicine
 
 profile:
   align: left
