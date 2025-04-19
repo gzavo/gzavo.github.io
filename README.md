@@ -3,3 +3,7 @@
 To start a local version, use
 
 > docker-compose up
+
+or
+
+> docker compose up
