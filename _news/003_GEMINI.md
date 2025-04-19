@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our Horizon consortium project *GEMINI*, coordinated by prof. Alfons Hoekstra, has been funded!
+Our Horizon consortium project *GEMINI*, coordinated by prof. Alfons Hoekstra, has been funded for 12M EUR!
