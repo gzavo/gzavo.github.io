@@ -1,6 +1,6 @@
 ---
 layout: page
-title: micro-aneurysm circulation
+title: micro-aneurysm in the eye
 description: Cellular flow in 3D reconstructed retinal micro-aneurysm
 img: assets/video/micro_aneurysm.gif
 importance: 2

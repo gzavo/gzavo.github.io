@@ -1,6 +1,6 @@
 ---
 layout: page
-title: chaos in blood
+title: chaotic flows
 description: Chaotic flow patterns in diseased arteries
 img: /assets/img/projects/chaotic.jpg
 importance: 4

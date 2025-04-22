@@ -26,15 +26,19 @@ social: true  # includes social icons at the bottom of the page
 &emsp;<b>(II)</b> _fundamental biomedicine,_ <br>
 &emsp;<b>(III)</b> _clinical applications._ <br>
 
-These operate in strong synergy to unlock answers that are not possible in a single-domain view. On the one hand the application of high-performance computing techniques allows fundamental investigations (such as cellular-scale mechanisms) in extreme detail. These complement the capabilities of experimental methods and allow access to detail that is not possible with the current measurement technologies. On the other hand, multi-scale computational methods enable the transfer of knowledge from fundamental research towards clinical applications.
-In both cases the high-performance computing techniques provide the necessary means to design and build **achievable** (optimal scaling in performance and energy usage) and **actionable** (verified, validated, and uncertainty quantified) solutions. I develop these methods primarily within the context of the Digital Human Twin (aka. Virtual Human), with the prospect of most methods being tranferrable to a wider range of the upcoming Digital Twins.
+These are applied in strong synergy to unlock answers that are not possible in a single-domain view. The application of high-performance computing techniques allows fundamental investigations (such as cellular-scale mechanisms) in extreme detail. These complement the capabilities of experimental methods and allow access to detail that is not possible with the current measurement technologies. Multi-scale computational methods enable the transfer of knowledge from fundamental research towards clinical applications.
+In both cases the high-performance computing techniques provide the necessary means to design and build **achievable** (optimal in performance and energy usage) and **actionable** (verified, validated, and uncertainty quantified) solutions. I develop these methods primarily within the context of the Digital Human Twin (aka. Virtual Human), while most methods are tranferrable to a wider range of the upcoming Digital Twins.
 <br><br>
 
-**Current and past projects** <br>
+**Recent projects** <br>
 
-- <small> CompBioMed - (EU Horizon, Co-PI, WP leader, 2020) </small>
-- <small> GEMINI - (EU Horizon, Co-PI, WP leader, 2024) </small>
-- <small> MMD Impulse grant (Co-PI, 2024) </small>
-- <small> Vacular Immunology (Co-PI, 2025) </small>
-- <small> ThromboRisk - (EU MSCA, PI, 2025) </small>
+&emsp;&emsp; <small> ThromboRisk - (EU MSCA, PI, 2025) </small>
+&emsp;&emsp; <small> Vacular Immunology (Co-PI, 2025) </small>
+&emsp;&emsp; <small> MMD Impulse grant (Co-PI, 2024) </small>
+&emsp;&emsp; <small> GEMINI - (EU Horizon, Co-PI, WP leader, 2024) </small>
+&emsp;&emsp; <small> CompBioMed - (EU Horizon, Co-PI, WP leader, 2020) </small>
+
+
+
+
 

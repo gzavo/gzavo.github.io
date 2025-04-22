@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Turbulence in human vessels
+title: Turbulence in blood
 description: Transient turbulence in a Fontan patient's circulation.
 img: assets/img/projects/fontan2.jpg
 importance: 3
