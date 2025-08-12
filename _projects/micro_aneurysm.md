@@ -1,6 +1,6 @@
 ---
 layout: page
-title: micro-aneurysm in the eye
+title: micro-aneurysms in the retina
 description: Cellular flow in 3D reconstructed retinal micro-aneurysm
 img: assets/video/micro_aneurysm.gif
 importance: 2

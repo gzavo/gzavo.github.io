@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flow prediction in brain aneurysms
+title: Flow prediction in treated brain aneurysms
 description: Blood flow simulation in patient brain arteries with vitual treatment.
 img: /assets/video/cfd_comp.gif
 importance: 2

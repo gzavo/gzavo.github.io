@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Flow mechanics kickstarting thrombosis
+title: Flow mechanics of arterial thrombosis
 description: Investigating the role of the micro-mechanical environment
 img: assets/img/projects/platelet_vwf.jpg
 importance: 3
