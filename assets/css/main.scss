@@ -6,9 +6,6 @@
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
-// Project image width
-img[alt=projectimage] { width: 350px; }
-
 @import
   "variables",
   "themes",
