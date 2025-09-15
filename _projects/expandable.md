@@ -8,7 +8,7 @@ category: clinical applications
 related_publications: 
 ---
 
-![Flow in Fontan circulation.](/assets/img/projects/expandable_graft.jpg)
+<img src="/assets/img/projects/expandable_graft.jpg" alt="Expandable vascular graft design" width="80%"/>
 
 Details coming soon.
 
