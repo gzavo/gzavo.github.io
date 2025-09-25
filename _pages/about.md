@@ -7,7 +7,7 @@ subtitle: >
 
 profile:
   align: left
-  image: prof_pic2.jpg
+  image: Small_square_lowres.jpg
   image_circular: true # crops the image to make it circular
   address: >
     Assistant Professor <br>
