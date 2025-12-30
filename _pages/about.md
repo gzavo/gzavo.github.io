@@ -29,7 +29,7 @@ I am a _Computational Scientist_ and my research focuses on **high-performance m
 &emsp;<b>(III) Clinical Applications </b> — I translate fundamental insights into actionable clinical tools, [including virtual medical device deployment simulations](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cnm.3340) for endovascular aneurysm treatment and patient-specific models for stroke intervention planning.
 
 This interdisciplinary approach unlocks insights inaccessible through single-domain methods. High-performance computing enables investigations at extreme detail and accuracy, complementing experimental capabilities and accessing phenomena beyond current measurement technologies. Multi-scale computational methods bridge fundamental research and clinical practice, delivering solutions that are both _achievable_ (optimized for performance and energy efficiency) and _actionable_ (rigorously verified, validated, and uncertainty-quantified).
-<br><br>
+<br>
 
 **Recent projects** <br>
 
@@ -39,6 +39,7 @@ This interdisciplinary approach unlocks insights inaccessible through single-dom
 &emsp;&emsp; <small> GEMINI - (EU Horizon, Co-PI, WP leader, 2024) </small>
 &emsp;&emsp; <small> CompBioMed - (EU Horizon, Co-PI, WP leader, 2020) </small>
 
+<br><br>
 
 
 
