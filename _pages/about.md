@@ -20,21 +20,24 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
- My research focuses on the interdisciplinary domain of **high-performance multi-scale models**, with the primary applications derived from the context of **biomedical research**. My overall strategy builds on three pillars: <br>
+I am a Computational Sientist and my research focuses on **high-performance multi-scale digital twins** for **biomedical applications**, combining expertise across three synergistic domains:
 
-&emsp;<b>(I)</b> _high-performance computing,_ <br>
-&emsp;<b>(II)</b> _fundamental biomedicine,_ <br>
-&emsp;<b>(III)</b> _clinical applications._ <br>
+&emsp;<b>(I) High-Performance Computing </b> — I develop scalable computational frameworks like [HemoCell](https://www.hemocell.eu), an open-source cellular blood flow simulator that achieves exceptional parallel efficiency (>80% on 260,000+ CPU cores) and enables investigations at cellular resolution that exceed current experimental capabilities.
 
-These are applied in strong synergy to unlock answers that are not possible in a single-domain view. The application of high-performance computing techniques allows fundamental investigations (such as cellular-scale mechanisms) in extreme detail. These complement the capabilities of experimental methods and allow access to detail that is not possible with the current measurement technologies. Multi-scale computational methods enable the transfer of knowledge from fundamental research towards clinical applications.
-In both cases the high-performance computing techniques provide the necessary means to design and build **achievable** (optimal in performance and energy usage) and **actionable** (verified, validated, and uncertainty quantified) solutions. I develop these methods primarily within the context of the Digital Human Twin (aka. Virtual Human), while most methods are tranferrable to a wider range of the upcoming Digital Twins.
+&emsp;<b>(II) Fundamental Biomedicine </b> — My work advances understanding of [blood rheology](https://pubs.aip.org/aip/pof/article/31/3/031903/260133), [platelet aggregation dynamics](https://doi.org/10.1016/j.compbiomed.2024.109010), and mechanosensitive processes in thrombosis through validated computational models that reproduce emergent transport characteristics of complex cellular systems.
+
+&emsp;<b>(III) Clinical Applications </b> — I translate fundamental insights into actionable clinical tools, [including virtual medical device deployment simulations](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cnm.3340) for endovascular aneurysm treatment and patient-specific models for stroke intervention planning.
+
+This interdisciplinary approach unlocks insights inaccessible through single-domain methods. High-performance computing enables investigations at extreme detail and accuracy, complementing experimental capabilities and accessing phenomena beyond current measurement technologies. Multi-scale computational methods bridge fundamental research and clinical practice, delivering solutions that are both _achievable_ (optimized for performance and energy efficiency) and _actionable_ (rigorously verified, validated, and uncertainty-quantified).
+
+While developed primarily within the Digital Human Twin context, these methodologies extend to broader digital twin applications across domains requiring multi-scale, high-fidelity simulations.
 <br><br>
 
 **Recent projects** <br>
 
-&emsp;&emsp; <small> ThromboRisk - (EU MSCA, PI, 2025) </small>
+&emsp;&emsp; <small> ThromboRisk - (EU MSCA, Co-PI, 2025) </small>
 &emsp;&emsp; <small> Vacular Immunology (Co-PI, 2025) </small>
-&emsp;&emsp; <small> MMD Impulse grant (Co-PI, 2024) </small>
+&emsp;&emsp; <small> MMD Impulse grant (PI, 2024) </small>
 &emsp;&emsp; <small> GEMINI - (EU Horizon, Co-PI, WP leader, 2024) </small>
 &emsp;&emsp; <small> CompBioMed - (EU Horizon, Co-PI, WP leader, 2020) </small>
 

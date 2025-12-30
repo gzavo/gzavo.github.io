@@ -2,7 +2,7 @@
 layout: page
 permalink: /education/
 title: Education
-description: Short description of my current courses and available thesis projects.
+description: Short description of my courses and available thesis projects.
 nav: true
 nav_order: 5
 ---
@@ -10,14 +10,13 @@ nav_order: 5
 
 # Thesis project topics
 
-These thesis topics are available every year, and are embedded in ongoing research projects.
+These thesis topics are broadly defined available *every year*, and are embedded in ongoing research projects. Note: these are broad definition, please email me for specifics.
 
-* Extreme-resolution fluid dynamics simulation on supercomputers (HPC, lattice Boltzmann, C++).
-* Cellular blood flow simulation in diseases (diabetes, malaria, thrombosis), based on [HemoCell](https://www.hemocell.eu) (HPC, C++).
-* Simulation of medical devices and implants, including the implantation procedure (Python, VTK).
-* Developing a deformable material simulation for biomedical applications (Python, GPU).
-* Finite element modelling of medical implants (FEM, Python).
-* Energy measurement of large-scale supercomputer simulations (HPC).
+* Design and development of medical devices and implants, including the implantation procedure (Python, VTK, FEM).
+* Developing new methods to simulate softmaterials in blood flow for biomedical applications (Python, GPU).
+* Cellular blood flow simulation in diseases (thrombosis, diabetes, malaria), based on [HemoCell](https://www.hemocell.eu) (HPC, CFD, C++).
+* Extreme-accuracy fluid simulations on supercomputers (HPC, lattice Boltzmann, C++).
+* Energy efficient large-scale simulations (HPC).
 * Quantum gravity simulations, large-scale Monte-Carlo simulations on complex graphs (Python, Causal Dynamical Triangulation).
 
 If you are interested in any of these topics, please contact me in email for more details on the specific goals.
@@ -35,6 +34,8 @@ You can also take a look at the [Research](/research/) page for some examples of
 Programme: Computational Science Master
 
 [Course catalog](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course)
+
+![Logo](/assets/img/education/SciComp_logo_white.jpg)
 
 **Goals**
 
@@ -55,6 +56,8 @@ Furthermore, the course provides a brief introduction to advanced numerical meth
 Programme: Computational Science Master
 
 [Course catalog](http://studiegids.uva.nl/xmlpages/page/2021-2022-en/search-course/course/88901)
+
+![Logo](/assets/img/education/StochSim_logo.jpg)
 
 **Goals**
 
