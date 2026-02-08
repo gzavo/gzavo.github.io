@@ -10,14 +10,14 @@ nav_order: 5
 
 # Thesis project topics
 
-These thesis topics are broadly defined available *every year*, and are embedded in ongoing research projects. Note: these are broad definition, please email me for specifics.
+These thesis topics are broadly defined available *every year*, and are embedded in ongoing research projects. Note: these are broad definition, please contact me via email for specifics.
 
-* Design and development of medical devices and implants, including the implantation procedure (Python, VTK, FEM).
-* Developing new methods to simulate softmaterials in blood flow for biomedical applications (Python, GPU).
-* Cellular blood flow simulation in diseases (thrombosis, diabetes, malaria), based on [HemoCell](https://www.hemocell.eu) (HPC, CFD, C++).
+* Computational design optimization of medical implants and implanting procedures (Python, VTK, FEM).
+* Developping new soft-material simulations for biomedical applications, e.g. virtual surgeries (Python, GPU).
+* Simulating the cellular mechanics of blood flow in diseases (thrombosis, diabetes, malaria), based on [HemoCell](https://www.hemocell.eu) (HPC, CFD, C++).
 * Extreme-accuracy fluid simulations on supercomputers (HPC, lattice Boltzmann, C++).
-* Energy efficient large-scale simulations (HPC).
-* Quantum gravity simulations, large-scale Monte-Carlo simulations on complex graphs (Python, Causal Dynamical Triangulation).
+* Energy efficient computing for Digital Twins (HPC, C++, Python).
+* Quantum gravity simulations, large-scale Monte-Carlo simulations on complex graphs (Python, Causal Dynamical Triangulation, Quantum Ising model).
 
 If you are interested in any of these topics, please contact me in email for more details on the specific goals.
 You can also take a look at the [Research](/research/) page for some examples of similar projects.
