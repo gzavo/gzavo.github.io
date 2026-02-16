@@ -1,14 +1,33 @@
 ---
 layout: page
-title: Heterogenous multi-scale model
+title: Heterogeneous multi-scale model
 description: Dynamic coupling of high-performance computing models
-img: assets/img/projects/hmm.jpg
+img: /assets/img/projects/hmm.jpg
 importance: 2
 category: high-performance computing
+impact: "Bridges micro and macro blood models so high-fidelity physics can inform full-domain predictions."
+methods:
+  - Multiscale modeling
+  - Surrogate modeling
+  - HPC coupling
 related_publications: czaja2020heterogeneous
 ---
 
-![Outline of the performance model.](/assets/img/projects/hmm.jpg)
+## Problem
+Whole-blood simulations at organ scale cannot directly resolve every cell, yet microscale effects strongly influence rheology and transport. The project addresses how to couple both scales without making runtime prohibitive.
 
+## Approach
+- Combine a macroscale advection-diffusion blood model with local microscale cell-resolved simulations.
+- Compute effective transport and viscosity coefficients from microscale runs.
+- Reuse prior microscale results through a surrogate model over hematocrit and shear-rate space.
+- Spawn new microscale simulations only where extrapolation uncertainty is high.
 
-This research focuses on developing a heterogeneous multi-scale model (HMM) for blood flow. Two separate scales are considered in this study, a Macro-scale, which models whole blood as a continuous fluid and tracks the transport of hematocrit profiles through an advection diffusion solver. And a Micro-scale, which computes directly local diffusion coefficients and viscosities using cell resolved simulations. The coupling between these two scales also includes the use of a surrogate model, which saved local viscosity and diffusion coefficients from previously simulated local hematocrit and shear rate combinations. As the HMM model progresses fewer micro models will be spawned. This is accomplished through the surrogate by interpolating from previously computed viscosities and diffusion coefficients. The benefit of using the HMM method for blood flow is that it, along with resolving the rheology of whole blood, can be extended with other types computational models to model physiological processes like thrombus formation.
+## Key finding
+The heterogeneous multiscale formulation preserves key microscale-informed behavior while reducing the number of expensive local simulations needed over time.
+
+## Why it matters
+This coupling strategy brings high-fidelity blood mechanics into larger domains where direct cell resolution is otherwise infeasible.
+
+## Outputs
+- Publication details are listed in the **References** section below.
+- Architecture and coupling overview are documented on this page.

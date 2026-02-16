@@ -2,18 +2,32 @@
 layout: page
 title: Risk of thrombosis in patient vessels
 description: Computational study of thrombotic risk in a Fontan vasculature.
-img: assets/img/projects/fontan.jpg
+img: /assets/img/projects/fontan.jpg
 importance: 2
 category: clinical applications
-related_publications: 
+impact: "Identifies high-risk hemodynamic zones in Fontan circulation to support personalized care decisions."
+methods:
+  - Patient-specific CFD
+  - Lagrangian analysis
+  - Thrombosis indicators
+related_publications:
 ---
 
-![Flow in Fontan circulation.](/assets/img/projects/fontan.jpg)
+## Problem
+Fontan patients face elevated thrombosis risk, but identifying where and why risk concentrates inside patient-specific anatomies remains challenging. I investigated whether detailed flow metrics can locate high-risk regions under realistic respiratory and inflow conditions.
 
-Thrombosis is a major cause of morbidity and mortality in patients with congenital heart disease (CHD). Patient-specific computational fluid dynamics (CFD) has great potential as a tool to study blood flow and help the surgical decision-making process. The current study aims to contribute to understanding thrombus formation in a patient-specific total cavopulmonary connection (TCPC) by studying clinically relevant hemodynamic parameters. The unique contributions of this study are the inclusion of a turbulence model, the hepatic veins, patient-specific respiratory inflow waveforms, and the investigation of thrombotic risk at high shear rates. The investigated parameters include shear rates, elongation rates, localised normalised helicity, and two distinct approaches to compute particle age (Eulerian and Lagrangian). The results of this study indicate the presence of turbulence in the TCPC fontan circulation. Areas with an increased risk of high and low shear thrombus formation were detected in the investigated geometry. There is high shear thrombotic potential in the Fontan conduit and the junction of blood vessels at high flow rates, while there is low shear thrombotic potential in a part of the right pulmonary artery at low flow rates. 
+## Approach
+- Build a patient-specific TCPC model with clinically relevant boundary conditions.
+- Include turbulence modeling, hepatic inflow effects, and respiratory waveform variation.
+- Quantify shear rate, elongation rate, helicity, and particle-age indicators.
+- Compare high-flow and low-flow conditions to map risk asymmetry.
 
-Related MSc thesis:
-[L Schutte - Computational modelling of thrombotic risk in the Fontan circulation](https://scripties.uba.uva.nl/search?id=record_51711)
+## Key finding
+The study identified distinct zones with elevated high-shear and low-shear thrombotic potential. Risk location depended strongly on local geometry and transient inflow regime.
 
-Other publications: coming soon
+## Why it matters
+Better localization of hemodynamic risk supports targeted monitoring and can help prioritize intervention planning for vulnerable Fontan patients.
 
+## Outputs
+- MSc thesis: [L. Schutte - Computational modelling of thrombotic risk in the Fontan circulation](https://scripties.uba.uva.nl/search?id=record_51711)
+- Additional outputs are integrated through ongoing Fontan studies.

@@ -2,13 +2,32 @@
 layout: page
 title: Flow mechanics of arterial thrombosis
 description: Investigating the role of the micro-mechanical environment
-img: assets/img/projects/platelet_vwf.jpg
+img: /assets/img/projects/platelet_vwf.jpg
 importance: 3
 category: fundamental biomedicine
+impact: "Explains how elongational flow and micro-scale blood conditions regulate early platelet adhesion."
+methods:
+  - Hemodynamic analysis
+  - Platelet mechanobiology
+  - Elongational flow
 related_publications: spieker2021effects, spieker2023initial, spieker2023simulating, kimmerlin2022loss
 ---
 
+## Problem
+Platelet adhesion in arterial thrombosis is strongly flow-dependent, but the specific role of elongational flow, cell-free layer effects, and hematocrit is often difficult to isolate. This project studies those coupled mechanosensitive drivers.
 
-![Platelet adhesion mechanics in high shear rate flows.](/assets/img/projects/platelet_vwf.jpg)
+## Approach
+- Analyze high-shear and high-gradient flow conditions relevant to early thrombosis.
+- Focus on elongational flow regimes that enhance vWF-mediated adhesion.
+- Compare how flow profile changes alter platelet-wall interaction likelihood.
+- Relate transport and adhesion tendencies to micro-mechanical blood environment features.
 
-Mechanosensitive processes have a strong influence on the first stages of the thrombus formation. The adhesion of platelets, which occurs both in physiological hemostasis, as well as pathological thrombosis, is found to be highly shear dependent and sensitive to hydrodynamic alterations. The shift of initially even shear gradients, e.g. caused by a sudden reduction in vessel diameter (vasoconstriction), leads to the presence of so called elongational flows. These flow fields, defined by exerting tensile forces, are found to promote PLT adhesion under certain conditions, enabled by the mediation of prominent plasma molecule von Willebrand factor (vWF). Furthermore, PLT adhesion is known to depend on the presence of a CFL as well as the level of hematocrit.The effects of these essential blood flow parameters on PLT adhesion were investigated under static flow conditions, in straight geometries.
+## Key finding
+The combination of elongational flow exposure, hematocrit level, and near-wall cell distribution strongly modulates platelet adhesion propensity in thrombosis-prone conditions.
+
+## Why it matters
+This mechanistic view helps explain why apparently similar vessel geometries can produce very different thrombotic outcomes.
+
+## Outputs
+- Publication details are listed in the **References** section below.
+- Supporting conceptual figures are provided on this page.

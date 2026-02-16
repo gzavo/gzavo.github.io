@@ -1,13 +1,33 @@
 ---
 layout: page
-title: load-balancing
+title: Load-balancing
 description: Dynamic load-balancing of large-scale cellular simulations
-img: assets/video/load_balancing.gif
+img: /assets/video/load_balancing.gif
 importance: 2
 category: high-performance computing
+impact: "Quantifies when load imbalance dominates runtime so HPC blood solvers can scale more predictably."
+methods:
+  - Performance modeling
+  - Dynamic load balancing
+  - Parallel overhead analysis
 related_publications: alowayyed2018load, tarksalooyeh2019optimizing
 ---
 
-![Outline of the performance model.](/assets/img/projects/h_load_imbalance.jpg)
+## Problem
+Large-scale cell-based blood simulations naturally produce uneven particle distributions, which can degrade parallel efficiency. I studied how much of total runtime overhead is attributable to load imbalance versus communication.
 
-The non-homogeneous distribution of computational costs is often challenging to handle in highly parallel applications. Using a methodology based on fractional overheads, we studied the fractional load imbalance overhead in a high-performance biofluid simulation aiming to accurately resolve blood flow on a cellular level. In general, the concentration of particles in such a suspension flow is not homogeneous. Usually, there is a depletion of cells close to walls, and a higher concentration towards the centre of the flow domain. We perform parallel simulations of such suspension flows. The emerging non-homogeneous cell distributions might lead to strong load imbalance, resulting in deterioration of the parallel performance. We formulate a model for the fractional load imbalance overhead, validate it by measuring this overhead in parallel lattice Boltzmann based cell-based blood flow simulations, and compare the arising load imbalance with other sources of overhead, in particular the communication overhead. We find a good agreement between the measurements and our load imbalance model. We also find that in our test cases, the communication overhead was higher than the load imbalance overhead. However, for larger systems, we expect load imbalance overhead to be dominant. Thus, efficient load balancing strategies should be developed.
+## Approach
+- Define a fractional-overhead model for load imbalance in particle-rich flow simulations.
+- Measure imbalance overhead in parallel lattice Boltzmann blood simulations.
+- Compare measured imbalance against communication overhead across problem scales.
+- Validate model predictions against observed performance data.
+
+## Key finding
+The analytical model matched measured overhead trends well. Communication dominated in tested configurations, but the model predicts imbalance becomes increasingly dominant as systems grow.
+
+## Why it matters
+Reliable imbalance prediction enables proactive runtime control and better scheduling decisions for high-cost biomedical HPC workloads.
+
+## Outputs
+- Publication details are listed in the **References** section below.
+- Performance diagnostics and distribution visualizations are shown on this page.

@@ -2,12 +2,32 @@
 layout: page
 title: Vascular injury
 description: Predicting the effects of microneedles and mosquito bites
-img: assets/video/puncture2.gif
+img: /assets/video/puncture2.gif
 importance: 2
 category: fundamental biomedicine
+impact: "Links puncture-scale flow mechanics to platelet transport patterns relevant for early hemostasis."
+methods:
+  - In silico and in vitro
+  - Cell-resolved flow
+  - Injury modeling
 related_publications: spieker2023simulating, spieker2023initial
 ---
 
-![Punctured vessel.](/assets/img/projects/puncture.jpg)
+## Problem
+At the onset of vascular puncture, platelet transport and local flow asymmetry can determine whether hemostasis remains controlled or escalates pathologically. I studied this early phase in a geometry representative of microneedle and insect-bite injuries.
 
-To analyze flow conditions and cellular behavior at the onset of a hemostatic response in the injury of a microneedle-induced vessel puncture, a combined in silico and in vitro platform is created. A cell-resolved blood flow model is utilized for in-depth flow profile and cell distribution analyses and a novel punctured vessel flow chamber is set up to complement the simulations with the evaluation of platelet aggregation around the wound neck of the puncture. The respective setups of the platform are explained and the results of both experiments and simulations with various puncture diameters and pressure drops are combined, providing detailed insight into the basic processes of platelet transport and aggregation in the wound area. A special emphasis of the simulation evaluation is put on the cell distributions and the magnitude of shear rate and elongational flow in the wound neck area, as well as downstream from the puncture. Additionally, possible implications of wound size and pressure difference on the hemostatic response are discussed. The simulations display asymmetric cell distributions between the proximal and distal side of the wound neck in regards to flow direction. The flow chamber with the puncture diameter closest to the simulated domains confirms this asymmetry by displaying increased platelet aggregation at the wound neck’s distal side. The presented punctured vessel in silico and in vitro experimental setups offer a platform to analyze the hemostatic environment of a vessel injured by a puncture and might assist in identifying differentiating factors between primary hemostasis and arterial thrombosis.
+## Approach
+- Build a punctured-vessel in silico model with cell-resolved blood dynamics.
+- Develop a matched in vitro flow-chamber setup for experimental comparison.
+- Vary puncture diameter and pressure-drop conditions.
+- Quantify local shear, elongation, and cell distribution asymmetries around the wound neck.
+
+## Key finding
+Both simulations and experiments showed directional asymmetry near the puncture neck, with distinct distal/proximal aggregation behavior linked to local transport patterns.
+
+## Why it matters
+The platform provides a mechanistic testbed for separating healthy hemostatic response from thrombosis-prone flow conditions in puncture injuries.
+
+## Outputs
+- Publication details are listed in the **References** section below.
+- Comparative in silico/in vitro setup visuals are included on this page.

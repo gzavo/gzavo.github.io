@@ -2,9 +2,16 @@
 layout: default
 ---
 <!-- page.html -->
-        <div class="post">
+        {%- assign is_project_page = page.collection == "projects" -%}
+        {%- assign page_category_meta = site.data.research_categories | where: "key", page.category | first -%}
+        <div class="post{% if is_project_page %} research-project-page{% endif %}">
 
           <header class="post-header">
+            {%- if is_project_page -%}
+            <p class="research-back-link">
+              <a href="{{ '/research/' | relative_url }}">&#8592; Back to Research</a>
+            </p>
+            {%- endif -%}
             <h1 class="post-title">{{ page.title }}</h1>
             <p class="post-description">{{ page.description }}</p>
           </header>
@@ -13,6 +20,29 @@ layout: default
             {{ content }}
           </article>
 
+          {%- if is_project_page -%}
+          {%- assign related_projects = site.projects | where: "category", page.category | where_exp: "item", "item.url != page.url" | sort: "importance" -%}
+          {%- if related_projects.size > 0 -%}
+          <section class="research-related">
+            <h2>Related projects</h2>
+            <ul>
+              {%- for item in related_projects limit: 3 -%}
+              <li>
+                {%- if item.redirect -%}
+                <a href="{{ item.redirect }}" target="_blank" rel="noopener noreferrer">{{ item.title }} <span aria-hidden="true">↗</span></a>
+                {%- else -%}
+                <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                {%- endif -%}
+                {%- if item.impact -%}
+                <span class="research-related-impact">{{ item.impact }}</span>
+                {%- endif -%}
+              </li>
+              {%- endfor -%}
+            </ul>
+          </section>
+          {%- endif -%}
+          {%- endif -%}
+
           {%- if page.related_publications != null and page.related_publications.size > 0 -%}
           {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
           <h2>References</h2>
@@ -20,6 +50,12 @@ layout: default
             {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
           </div>
           {%- endif %}
+
+          {%- if is_project_page -%}
+          <p class="research-back-link research-back-link-bottom">
+            <a href="{{ '/research/' | relative_url }}">&#8592; Back to Research</a>
+          </p>
+          {%- endif -%}
 
           {%- if site.giscus.repo and page.giscus_comments -%}
             {% include giscus.html %}

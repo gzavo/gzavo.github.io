@@ -2,14 +2,32 @@
 layout: page
 title: Quantum gravity simulation
 description: Causal Dynamical Triangulations
-img: assets/img/projects/sqg_net.jpg
+img: /assets/img/projects/sqg_net.jpg
 importance: 1
 category: other
-related_publications: 
+impact: "Shows how quantum gravity ideas can be explored with transparent, reproducible simulation tools."
+methods:
+  - Monte Carlo
+  - Causal triangulation
+  - Statistical physics
+related_publications:
 ---
 
-![Causal Dynamical Triangulation to investigate QG.](/assets/img/projects/sqg_net.jpg)
+## Problem
+Quantum gravity is difficult to communicate because many approaches are mathematically dense and hard to experiment with. I wanted a simulation path that is scientifically rigorous but still approachable to readers who are new to the topic.
 
-The quest for quantum gravity has been long and difficult. Causal Dynamical Triangulation (CDT) is a new and straightforward approach to quantum gravity that recovers classical spacetime at large scales by enforcing causality at small scales. CDT combines quantum physics with general relativity in a Feynman "sum over geometries" and converts the sum into a discrete statistical physics problem. This problem is then solved using a Hastings-Metropolis Monte Carlo simulation to compute the spatial fluctuations of an empty universe with one space and one time dimensions. The results compare favorably with theory and provide an accessible but detailed introduction to quantum gravity via a simulation that can be run from a laptop to supercomputers.
+## Approach
+- Model spacetime with Causal Dynamical Triangulations (CDT), enforcing causality at small scales.
+- Reformulate the physical model as a discrete statistical mechanics problem.
+- Use Hastings-Metropolis Monte Carlo sampling to evaluate geometric fluctuations efficiently.
+- Keep the implementation lightweight enough to run from laptops up to larger compute systems.
 
-Related repository: [https://github.com/sedadenboer/CDT](https://github.com/sedadenboer/CDT)
+## Key finding
+The simulations recover large-scale behavior consistent with classical spacetime while still exposing nontrivial small-scale fluctuations. This makes CDT a practical computational bridge between abstract theory and measurable model behavior.
+
+## Why it matters
+This project demonstrates that frontier physics can be made experimentally accessible through simulation. That accessibility helps with both teaching and early-stage method validation.
+
+## Outputs
+- Source code: [CDT repository](https://github.com/sedadenboer/CDT)
+- Project summary and visual outputs are documented on this page.

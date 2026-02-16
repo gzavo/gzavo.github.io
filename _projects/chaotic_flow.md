@@ -1,17 +1,33 @@
 ---
 layout: page
-title: chaotic flows
+title: Chaotic flows
 description: Chaotic flow patterns in diseased arteries
 img: /assets/img/projects/chaotic.jpg
 importance: 4
 category: clinical applications
+impact: "Reveals hidden transport patterns in aneurysm-prone arteries that standard flow metrics can miss."
+methods:
+  - Patient-specific CFD
+  - Chaotic advection
+  - Fractal analysis
 related_publications: zavodszky2016fractals, csippa2018new
 ---
 
-![Residence time in the cross section of a brain artery close to an aneurysms.](/assets/img/projects/chaotic.jpg)
+## Problem
+Cerebral aneurysm risk is strongly linked to local hemodynamics, but classical metrics can miss unstable transport structures. I aimed to quantify whether diseased arterial geometries induce chaotic flow behavior that changes residence time and exposure patterns.
 
-The behaviour of biological fluid flows is often investigated in medical practice to draw conclusions on the physiological or pathological conditions of the considered organs. 
-One area where such investigations are proven to be useful is the flow-related formation and growth of different pathologic malformations of the cerebro-vascular system. 
-In this work, a detailed study is presented on the effect of a cerebral aneurysm on blood transport inside a human brain artery segment. 
-This malformation causes strong flow instabilities that drives the flow system towards chaotic behaviour. 
-The emerging fractal structure and some of its measurable properties have been explored using a method that makes the measurement of these properties feasible even in complicated large three dimensional data sets. 
+## Approach
+- Simulate unsteady blood flow in patient-relevant artery geometries.
+- Track transport structures and mixing patterns in three-dimensional data.
+- Quantify fractal characteristics of flow-driven transport features.
+- Compare patterns with conventional interpretations of aneurysm-related flow fields.
+
+## Key finding
+The aneurysm-affected geometries developed strong instabilities that drove the system toward chaotic transport. Fractal signatures and altered residence-time patterns were measurable, even in complex 3D settings.
+
+## Why it matters
+Quantifying chaotic transport adds a complementary lens for clinical risk interpretation. It helps connect geometry-driven flow instability to biologically relevant exposure mechanisms.
+
+## Outputs
+- Publications are listed in the **References** section below.
+- Representative simulation visuals are included on this page.

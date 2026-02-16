@@ -2,38 +2,34 @@
 layout: page
 title: Digital Twin of cellular blood
 description: High-performance microscale simulations with HemoCell
-img: assets/video/hemocell.gif
+img: /assets/video/hemocell.gif
 importance: 1
 category: fundamental biomedicine
-related_publications: zavodszky2017cellular, zavodszky2017hemocell, tarksalooyeh2018inflow, de2018numerical, czaja2018cell, zavodszky2019red, tarksalooyeh2019optimizing, van2019identifying, czaja2020influence 
+impact: "Enables cell-resolved blood simulation at scales large enough to study clinically relevant flow domains."
+methods:
+  - Lattice Boltzmann
+  - Cell-resolved simulation
+  - Parallel HPC
+related_publications: zavodszky2017cellular, zavodszky2017hemocell, tarksalooyeh2018inflow, de2018numerical, czaja2018cell, zavodszky2019red, tarksalooyeh2019optimizing, van2019identifying, czaja2020influence
 ---
 
-![HemoCell - 2 mm3 of blood on a cellular level.](/assets/img/projects/hemocell.jpg)
+## Problem
+Cellular blood flow models often struggle to combine physical fidelity with large-domain performance. The goal of HemoCell is to simulate blood on a cell-resolved level without sacrificing scalability needed for practical biomedical studies.
 
-HemoCell is a high-performance code aim at solving cellular flow problems with the help of supercomputers.
-The defining features are high numerical stability at fast flows (i.e., sustained high shear rates), and outstanding computational performance, enabling macroscopic investigations. Good scaling was demonstrated up to 330 000 CPU cores (> 80% efficiency).
+## Approach
+- Build on a high-performance lattice Boltzmann framework for fluid-cell coupling.
+- Implement robust high-shear stability and efficient communication strategies.
+- Use dynamic load balancing and optimized data structures for large core counts.
+- Provide advanced boundary conditions for realistic physiological setups.
 
-In order to achieve this level of performance we build on advanced computational solutions:
-* Time-scale separation of the components
-* Dynamic load-balancing
-* Two-phase optimised communication pattern
-* Fast dynamic octree for node searching
+## Key finding
+HemoCell demonstrates strong scalability (including very large core counts) while preserving detailed blood-cell dynamics. This makes it viable for both fundamental studies and translational simulation tasks.
 
-HemoCell, and the surrounding tools have been in development since 2015, involving more than a dozen core contributor.
+## Why it matters
+A performant cellular blood digital twin expands what can be studied in silico, from platelet mechanics to patient-relevant microscale transport phenomena.
 
-HemoCell has a series of advanced boundary conditions that enable a broad range of applications:
-* Periodic
-* Continuous cellular inflow
-* Rotating boundary
-* Lees-Edwards
-
-HemoCell has been used in various complex flow scenarios, for instance:
-* Platelet aggregation in complex geometries
-* Platelet margination in healthy and diabetic blood flows
-* Stress on the wall of retinal micro-aneurysms
-* Cellular conditions for high-shear thrombus formation
-
-More information can be found on the website [www.hemocell.eu](https://www.hemocell.eu),
-and in the [documentation](https://www.hemocell.eu/user_guide/index.html).
-
-A recent (2023) bookchapter, describing HemoCell is out! Tthe author manuscript is available here: [**Link**](https://arxiv.org/abs/2305.02752).
+## Outputs
+- Project website: [hemocell.eu](https://www.hemocell.eu)
+- Documentation: [HemoCell user guide](https://www.hemocell.eu/user_guide/index.html)
+- Book chapter manuscript: [arXiv:2305.02752](https://arxiv.org/abs/2305.02752)
+- Publications are listed in the **References** section below.

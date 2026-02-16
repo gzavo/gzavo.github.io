@@ -1,0 +1,15 @@
+- key: fundamental biomedicine
+  label: Fundamental Biomedicine
+  description: Mechanics of blood, cells, and thrombus formation at clinically relevant scales.
+
+- key: clinical applications
+  label: Clinical Applications
+  description: Patient-specific simulations that support diagnosis, treatment planning, and implant design.
+
+- key: high-performance computing
+  label: High-Performance Computing
+  description: Algorithms and models that make large-scale blood flow simulation fast, robust, and efficient.
+
+- key: other
+  label: Exploratory Projects
+  description: Cross-domain simulation work, prototypes, and educational tools beyond the main tracks.

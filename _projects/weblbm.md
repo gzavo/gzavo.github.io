@@ -1,17 +1,33 @@
 ---
 layout: page
 title: webLBM
-description: (opens new page!) webGL based interactive 2D lattice Boltzmann simulation
-img: assets/img/projects/weblbm.jpg
-redirect: ../assets/weblbm/index.html
+description: (opens new page) webGL-based interactive 2D lattice Boltzmann simulation
+img: /assets/img/projects/weblbm.jpg
+redirect: /assets/weblbm/index.html
 importance: 3
 category: other
+impact: "Makes fluid simulation interactive in-browser so users can explore LBM dynamics in real time."
+methods:
+  - WebGL
+  - Interactive simulation
+  - Lattice Boltzmann
 ---
 
-![LBM in the browser](/assets/img/projects/weblbm.jpg)
+## Problem
+Many people interested in computational fluid dynamics never get hands-on access because setup friction is high. I wanted a browser-native LBM demo that runs instantly and still exposes meaningful flow behavior.
 
-Inspired by several available online javascript codes that simulate flow using the lattice Boltzmann method (so this one is kind of a Franken-code of those, with some added features.)
+## Approach
+- Implement a WebGL-based 2D lattice Boltzmann solver for real-time interaction.
+- Keep rendering and update steps lightweight enough for consumer hardware.
+- Add controls that let users change initial conditions and observe vortex evolution.
+- Package the project as a standalone static demo for direct hosting.
 
-Since it uses very basic WebGL features, it should run on any hardware that can draw a colored point on screen, including mobile devices.
+## Key finding
+A minimal WebGL implementation can produce intuitive, responsive flow behavior in the browser while preserving core LBM dynamics for educational use.
 
-Go and check out how vortices develop around your initals! 
+## Why it matters
+Interactive simulation lowers the barrier to entry for fluid mechanics, making methods and concepts easier to communicate to broader audiences.
+
+## Outputs
+- Live demo: [webLBM interactive page](/assets/weblbm/index.html)
+- Card CTA opens the external demo directly.
