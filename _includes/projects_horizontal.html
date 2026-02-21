@@ -15,9 +15,6 @@
         {%- endif -%}
       </div>
       <p class="card-text research-card-description">{{ project.description }}</p>
-      {%- if project.impact -%}
-      <p class="research-impact">{{ project.impact }}</p>
-      {%- endif -%}
       {%- if project.methods and project.methods.size > 0 -%}
       <ul class="research-methods">
         {%- for method in project.methods -%}
@@ -29,11 +26,11 @@
       <div class="research-card-actions">
         {%- if project.redirect -%}
         <a class="btn btn-sm btn-primary research-cta" href="{{ project.redirect }}" target="_blank" rel="noopener noreferrer">
-          Open external project <span aria-hidden="true">↗</span>
+          PROJECT OVERVIEW <span aria-hidden="true">↗</span>
         </a>
         {%- else -%}
         <a class="btn btn-sm btn-primary research-cta" href="{{ project.url | relative_url }}">
-          Read project story
+          PROJECT OVERVIEW
         </a>
         {%- endif -%}
 

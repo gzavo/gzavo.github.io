@@ -10,28 +10,6 @@ nav_order: 2
 {%- assign team = site.data.team -%}
 
 <div class="team-page">
-  <section class="team-section">
-    <h2>Current Team</h2>
-    <div class="row row-cols-1 row-cols-md-2 team-grid">
-      {%- for member in team.current_team -%}
-      <div class="col team-grid-item">
-        <article class="card team-card team-card-member">
-          <div class="team-member-layout">
-            <div class="team-photo-wrap">
-              <img class="team-photo" src="{{ member.image | relative_url }}" alt="{{ member.alt }}" loading="lazy" />
-            </div>
-            <div class="card-body">
-              <h3 class="team-name">{{ member.name }}</h3>
-              <p class="team-role">{{ member.role }}</p>
-              <p class="team-focus">{{ member.focus }}</p>
-            </div>
-          </div>
-        </article>
-      </div>
-      {%- endfor -%}
-    </div>
-  </section>
-
   <section class="team-section team-openings">
     <h2>Open Positions</h2>
     <div class="row row-cols-1 row-cols-md-2 team-grid">
@@ -48,6 +26,28 @@ nav_order: 2
               {{ position.opening_label | default: "Official opening" }}
             </a>
             {%- endunless -%}
+          </div>
+        </article>
+      </div>
+      {%- endfor -%}
+    </div>
+  </section>
+
+  <section class="team-section">
+    <h2>Current Team</h2>
+    <div class="row row-cols-1 row-cols-md-2 team-grid">
+      {%- for member in team.current_team -%}
+      <div class="col team-grid-item">
+        <article class="card team-card team-card-member">
+          <div class="team-member-layout">
+            <div class="team-photo-wrap">
+              <img class="team-photo" src="{{ member.image | relative_url }}" alt="{{ member.alt }}" loading="lazy" />
+            </div>
+            <div class="card-body">
+              <h3 class="team-name">{{ member.name }}</h3>
+              <p class="team-role">{{ member.role }}</p>
+              <p class="team-focus">{{ member.focus }}</p>
+            </div>
           </div>
         </article>
       </div>

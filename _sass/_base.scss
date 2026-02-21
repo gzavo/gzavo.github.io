@@ -696,6 +696,7 @@ footer.sticky-bottom {
 }
 
 .research-card-body {
+  --research-chip-inline-pad: 0.55rem;
   display: flex;
   flex-direction: column;
   gap: 0.6rem;
@@ -745,7 +746,7 @@ footer.sticky-bottom {
   list-style: none;
 
   li {
-    padding: 0.16rem 0.55rem;
+    padding: 0.16rem var(--research-chip-inline-pad);
     border: 1px solid var(--global-divider-color);
     border-radius: 999px;
     font-size: 0.75rem;
@@ -759,6 +760,10 @@ footer.sticky-bottom {
   flex-wrap: wrap;
   gap: 0.75rem;
   margin-top: auto;
+}
+
+.research-methods + .research-card-actions .research-cta {
+  margin-left: 0em;//calc((var(--research-chip-inline-pad) + 0.45rem) * -1);
 }
 
 .research-cta {
@@ -946,7 +951,7 @@ footer.sticky-bottom {
     aspect-ratio: 3 / 4;
     margin: 0;
     border-radius: 10px;
-    background-color: color-mix(in srgb, var(--global-bg-color) 88%, var(--global-theme-color) 12%);
+    background-color: transparent;
     overflow: hidden;
   }
 
