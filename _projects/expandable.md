@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Vascular graft development
-description: Development of a new medical graft that is able to follow patient growth
+title: Vascular graft design
+description: Design optimization of a new medical graft that is able to follow patient growth
 img: /assets/video/auxetic_scaffold.gif
 importance: 2
 category: clinical applications
@@ -17,7 +17,7 @@ related_publications:
 Children receiving vascular grafts often outgrow fixed-size implants, which can require repeated procedures over time. The project investigates whether a mechanically expandable graft concept can maintain function while adapting to growth.
 
 ## Approach
-- Design vascular graft geometries with growth-accommodating structural behavior.
+- Design optimization of vascular graft geometries with growth-accommodating structural behavior.
 - Evaluate geometric expansion behavior under clinically relevant deformation ranges.
 - Use simulation workflows to check expected flow compatibility and mechanical feasibility.
 - Iterate designs toward robust opening behavior without severe lumen disruption.

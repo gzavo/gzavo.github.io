@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  Computational biomedicine
+  Digital Twins in Healthcare
 
 profile:
   align: left
@@ -12,6 +12,7 @@ profile:
   address: >
     Assistant Professor <br>
     <a href='https://computationalscience.nl'>Computational Science Lab</a> <br>
+    Director of <a href='https://www.uva.nl/msc-computational-science'>Computational Science Master program</a> <br>
     University of Amsterdam    
 
 news: true  # includes a list of news items
