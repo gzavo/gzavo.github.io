@@ -10,9 +10,9 @@ profile:
   image: Small_square_lowres2.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    Assistant Professor <br>
-    <a href='https://computationalscience.nl'>Computational Science Lab</a> <br>
-    Director of <a href='https://www.uva.nl/msc-computational-science'>Computational Science Master program</a> <br>
+    <b>Assistant Professor</b> at
+    <a href='https://computationalscience.nl'>Computational Science Lab</a>, <br>
+    <b>Director</b> of <a href='https://www.uva.nl/msc-computational-science'>Computational Science Master program</a> <br>
     University of Amsterdam    
 
 news: true  # includes a list of news items
@@ -34,11 +34,11 @@ This interdisciplinary approach unlocks insights inaccessible through single-dom
 
 **Recent projects** <br>
 
-&emsp;&emsp; <small> ThromboRisk - (EU MSCA, Co-PI, 2025) </small>
-&emsp;&emsp; <small> Vacular Immunology (Co-PI, 2025) </small>
-&emsp;&emsp; <small> MMD Impulse grant (PI, 2024) </small>
-&emsp;&emsp; <small> GEMINI - (EU Horizon, Co-PI, WP leader, 2024) </small>
-&emsp;&emsp; <small> CompBioMed - (EU Horizon, Co-PI, WP leader, 2020) </small>
+<small> <a href="https://www.thromborisk.eu/">ThromboRisk</a> (EU MSCA, Co-PI, 2026) </small>
+&emsp;&emsp; <small> <a href="https://vascularimmunology.nl/">Vacular Immunology</a> (NL, Co-PI, 2025) </small>
+&emsp;&emsp; <small> <a href="https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/valorisation/mmd-hub/navigation/mmd-project-design-of-synthetic-vessels-for-children.html">MMD Impulse grant</a> (NL, PI, 2024) </small>
+&emsp;&emsp; <small> <a href="https://dth-gemini.eu/">GEMINI</a> (EU Horizon, Co-PI, WP leader, 2024) </small>
+&emsp;&emsp; <small> <a href="https://etp4hpc-handbook.online/compbiomed/">CompBioMed</a> - (EU Horizon, Co-PI, WP leader, 2020) </small>
 
 <br><br>
 
