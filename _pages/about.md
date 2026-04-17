@@ -21,27 +21,23 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My goal is to introduce _Digital Twins in Healthcare_ that allow us to explore human physiology **beyond experimental limits** and directly **inform clinical decisions**. By combining high-performance computing, biomedical modeling, and rigorous validation, I strive to translate fundamental insight into reliable, patient-specific clinical tools. I combine expertise from three synergistic domains to achieve this:
+My goal is to introduce _Digital Twins in Healthcare_ that allow us to explore human physiology **beyond experimental limits** and directly **inform clinical decisions**. I build my strategy on three synergistic domains.
 
-&emsp;<b>(I) High-Performance Computing </b> — I develop scalable computational frameworks like [HemoCell](https://www.hemocell.eu), an open-source cellular blood flow simulator that achieves exceptional parallel efficiency (>80% on 300,000+ CPU cores) and enables investigations at cellular resolution that exceed current experimental capabilities.
-
-&emsp;<b>(II) Fundamental Biomedicine </b> — My work advances understanding of [blood rheology](https://pubs.aip.org/aip/pof/article/31/3/031903/260133), [platelet aggregation dynamics](https://doi.org/10.1016/j.compbiomed.2024.109010), and mechanosensitive processes in thrombosis through validated computational models that reproduce emergent transport characteristics of complex cellular systems.
-
-&emsp;<b>(III) Clinical Applications </b> — I translate fundamental insights into actionable clinical tools, [including virtual medical device deployment simulations](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cnm.3340) for endovascular aneurysm treatment and patient-specific models for stroke intervention planning.
-
-This interdisciplinary approach unlocks insights inaccessible through single-domain methods, and enables solutions that are both _achievable_ (optimized for performance and energy efficiency) and _actionable_ (rigorously verified, validated, and uncertainty-quantified).
+<div style="overflow: hidden;">
+<img src="{{ '/assets/img/research-strategy.svg' | relative_url }}" alt="Research strategy: three pillars for Digital Twins in Healthcare" style="width: 100%; max-width: 680px; display: block; margin: 0.0rem auto;">
+</div>
 <br>
 
 **Recent projects** <br>
 
-<small> <a href="https://www.thromborisk.eu/">ThromboRisk</a> (EU MSCA, Co-PI, 2026) </small>
-&emsp;&emsp; <small> <a href="https://vascularimmunology.nl/">Vacular Immunology</a> (NL, Co-PI, 2025) </small>
-&emsp;&emsp; <small> <a href="https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/valorisation/mmd-hub/navigation/mmd-project-design-of-synthetic-vessels-for-children.html">MMD Impulse grant</a> (NL, PI, 2024) </small>
-&emsp;&emsp; <small> <a href="https://dth-gemini.eu/">GEMINI</a> (EU Horizon, Co-PI, WP leader, 2024) </small>
-&emsp;&emsp; <small> <a href="https://etp4hpc-handbook.online/compbiomed/">CompBioMed</a> - (EU Horizon, Co-PI, WP leader, 2020) </small>
+<a href="https://www.thromborisk.eu/">ThromboRisk</a> (EU MSCA, Co-PI, 2026); 
+&emsp;&emsp; <a href="https://vascularimmunology.nl/">Vacular Immunology</a> (NL, Co-PI, 2025) <br>
+
+<a href="https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/valorisation/mmd-hub/navigation/mmd-project-design-of-synthetic-vessels-for-children.html">MMD Impulse grant</a> (NL, PI, 2024); 
+&emsp;&emsp; <a href="https://dth-gemini.eu/">GEMINI</a> (EU Horizon, Co-PI, WP leader, 2024) <br>
+
+<a href="https://etp4hpc-handbook.online/compbiomed/">CompBioMed</a> - (EU Horizon, Co-PI, WP leader, 2020) 
 
 <br><br>
-
-
 
 

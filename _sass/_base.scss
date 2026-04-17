@@ -24,6 +24,7 @@ hr {
 }
 
 table {
+
   td,
   th {
     font-size: 1rem;
@@ -131,13 +132,14 @@ blockquote {
 */
 .profile {
   width: 100%;
-  margin-bottom: 12rem;
+  margin-bottom: 2rem;
 
   .address {
     margin-bottom: 3px;
     margin-top: 3px;
     font-size: 16px;
     text-align: center;
+
     p {
       display: inline-block;
       margin: 0;
@@ -762,8 +764,8 @@ footer.sticky-bottom {
   margin-top: auto;
 }
 
-.research-methods + .research-card-actions .research-cta {
-  margin-left: 0em;//calc((var(--research-chip-inline-pad) + 0.45rem) * -1);
+.research-methods+.research-card-actions .research-cta {
+  margin-left: 0em; //calc((var(--research-chip-inline-pad) + 0.45rem) * -1);
 }
 
 .research-cta {
@@ -861,6 +863,7 @@ footer.sticky-bottom {
 }
 
 @media (prefers-reduced-motion: reduce) {
+
   .research-card,
   .research-chip,
   .js-research .reveal-on-scroll {
@@ -1147,6 +1150,7 @@ footer.sticky-bottom {
 
       .badges {
         padding-bottom: 0.5rem;
+
         span {
           display: inline-block;
           color: $black-color;
@@ -1393,7 +1397,8 @@ progress::-moz-progress-bar {
     }
   }
 
-  .dropdown-item.active, .dropdown-item:active {
+  .dropdown-item.active,
+  .dropdown-item:active {
     background-color: var(--global-hover-color);
     color: var(--global-hover-text-color) !important;
 
@@ -1435,6 +1440,7 @@ nav[data-toggle="toc"] {
 
 /* small screens */
 @media (max-width: 576px) {
+
   /* override stickyness so that the navigation does not follow scrolling */
   nav[data-toggle="toc"] {
     visibility: hidden;
@@ -1453,7 +1459,12 @@ nav[data-toggle="toc"] {
       color: var(--global-tip-block-text);
     }
 
-    h1, h2, h3, h4, h5, h6 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
       color: var(--global-tip-block-title);
     }
   }
@@ -1466,7 +1477,12 @@ nav[data-toggle="toc"] {
       color: var(--global-warning-block-text);
     }
 
-    h1, h2, h3, h4, h5, h6 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
       color: var(--global-warning-block-title);
     }
   }
@@ -1479,7 +1495,12 @@ nav[data-toggle="toc"] {
       color: var(--global-danger-block-text);
     }
 
-    h1, h2, h3, h4, h5, h6 {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
       color: var(--global-danger-block-title);
     }
   }
