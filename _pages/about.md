@@ -21,7 +21,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My goal is to introduce _Digital Twins in Healthcare_ that allow us to explore human physiology **beyond experimental limits** and directly **inform clinical decisions**. I build my strategy on three synergistic domains.
+My goal is to introduce _Digital Twins in Healthcare_ that allow us to understand human physiology **beyond experimental limits** and directly **inform clinical decisions**. 
+
+I build my <a href="{{ '/research/' | relative_url }}">research strategy</a> on three synergistic domains.
 
 <div style="overflow: hidden;">
 <img src="{{ '/assets/img/research-strategy.svg' | relative_url }}" alt="Research strategy: three pillars for Digital Twins in Healthcare" style="width: 100%; max-width: 680px; display: block; margin: 0.0rem auto;">
