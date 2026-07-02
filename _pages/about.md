@@ -21,9 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-<h4>
 My goal is to introduce <i>Digital Twins in Healthcare</i> that overcome experimental limitations to directly <b>improve patient care</b>. 
-</h4>
 
 My <a href="{{ '/research/' | relative_url }}">research strategy</a>  is based on three synergistic domains:
 
