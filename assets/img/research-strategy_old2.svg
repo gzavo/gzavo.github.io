@@ -1,0 +1,65 @@
+<svg width="680" height="345" xmlns="http://www.w3.org/2000/svg" role="img" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+ <title>Research strategy: three pillars for Digital Twins in Healthcare</title>
+ <desc>Infographic showing three synergistic research pillars — high-performance computing, fundamental biomedicine, and clinical applications — converging into Digital Twins in Healthcare.</desc>
+ <defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+   <path d="m2,1l6,4l-6,4" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" id="svg_1"/>
+  </marker>
+ </defs>
+ <!-- Top eyebrow -->
+ <!-- Pillar I: High-performance computing -->
+ <!-- Pillar II: Fundamental biomedicine -->
+ <!-- Pillar III: Clinical applications -->
+ <!-- Convergence arrows -->
+ <!-- Central hub: Digital Twins in Healthcare -->
+ <!-- Bottom taglines -->
+ <g>
+  <title>Layer 1</title>
+  <text x="340" y="32" text-anchor="middle" font-size="16" font-weight="500" fill="#185FA5" id="svg_2">Three synergistic pillars</text>
+  <line x1="300" y1="44" x2="380" y2="44" stroke="#378ADD" id="svg_3"/>
+  <g id="svg_4">
+   <rect x="20" y="65" width="200" height="105" rx="10" fill="#E6F1FB" stroke="#378ADD" id="svg_5"/>
+   <circle cx="38" cy="93" r="11" fill="#185FA5" id="svg_6"/>
+   <text x="38" y="93" text-anchor="middle" dominant-baseline="central" font-size="11" font-weight="500" fill="#FFFFFF" id="svg_7">I</text>
+   <text x="120" y="89" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_8">High-performance</text>
+   <text x="120" y="107" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_9">computing</text>
+   <line x1="65" y1="120" x2="175" y2="120" stroke="#B5D4F4" id="svg_10"/>
+   <text x="120" y="144" text-anchor="middle" font-size="12" fill="#185FA5" id="svg_11">Scalable HPC frameworks</text>
+   <text x="120" y="160" text-anchor="middle" font-size="12" font-weight="500" fill="#0C447C" id="svg_12">HemoCell · 300k+ cores</text>
+  </g>
+  <g id="svg_13">
+   <rect x="240" y="65" width="200" height="105" rx="10" fill="#E6F1FB" stroke="#378ADD" id="svg_14"/>
+   <circle cx="258" cy="93" r="11" fill="#185FA5" id="svg_15"/>
+   <text x="258" y="93" text-anchor="middle" dominant-baseline="central" font-size="11" font-weight="500" fill="#FFFFFF" id="svg_16">II</text>
+   <text x="340" y="89" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_17">Fundamental</text>
+   <text x="340" y="107" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_18">biomedicine</text>
+   <line x1="285" y1="120" x2="395" y2="120" stroke="#B5D4F4" id="svg_19"/>
+   <text x="340" y="144" text-anchor="middle" font-size="12" fill="#185FA5" id="svg_20">Validated multiscale models</text>
+   <text x="340" y="160" text-anchor="middle" font-size="12" font-weight="500" fill="#0C447C" id="svg_21">Rheology · thrombosis</text>
+  </g>
+  <g id="svg_22">
+   <rect x="460" y="65" width="200" height="105" rx="10" fill="#E6F1FB" stroke="#378ADD" id="svg_23"/>
+   <circle cx="478" cy="93" r="11" fill="#185FA5" id="svg_24"/>
+   <text x="478" y="93" text-anchor="middle" dominant-baseline="central" font-size="11" font-weight="500" fill="#FFFFFF" id="svg_25">III</text>
+   <text x="560" y="89" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_26">Clinical</text>
+   <text x="560" y="107" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_27">applications</text>
+   <line x1="505" y1="120" x2="615" y2="120" stroke="#B5D4F4" id="svg_28"/>
+   <text x="560" y="144" text-anchor="middle" font-size="12" fill="#185FA5" id="svg_29">Patient-specific tools</text>
+   <text x="560" y="160" text-anchor="middle" font-size="12" font-weight="500" fill="#0C447C" id="svg_30">Aneurysm · stroke planning</text>
+  </g>
+  <line x1="340" y1="172" x2="340" y2="216" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_32"/>
+  <rect x="18.99996" y="220" width="641.99998" height="60" rx="12" fill="#185FA5" stroke="#042C53" id="svg_34"/>
+  <text x="340" y="246" text-anchor="middle" font-size="18" font-weight="500" fill="#FFFFFF" id="svg_35">Digital Twins in Healthcare</text>
+  <text x="340" y="267" text-anchor="middle" font-size="12" fill="#B5D4F4" id="svg_36">Patient-specific clinical decision tools</text>
+  <text x="340" y="306" text-anchor="middle" font-size="12" font-weight="500" fill="#185FA5" id="svg_37">Beyond experimental limits · Inform clinical decisions</text>
+  <text x="340" y="327" text-anchor="middle" font-size="11" fill="#378ADD" id="svg_38">Achievable · Actionable · Validated</text>
+  <line x1="120" y1="172" x2="120" y2="216" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_39"/>
+  <line x1="570" y1="172" x2="570" y2="216" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_40"/>
+  <line transform="rotate(-90, 229.333, 91.3333)" x1="229.33329" y1="85.3333" x2="229.33329" y2="97.33332" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_31"/>
+  <line transform="rotate(90, 230, 119.333)" x1="229.99995" y1="113.33328" x2="229.99995" y2="125.3333" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_41"/>
+  <line transform="rotate(-90, 229.333, 145.333)" x1="229.33329" y1="139.33327" x2="229.33329" y2="151.33328" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_42"/>
+  <line transform="rotate(-90, 450, 88.6666)" x1="449.99982" y1="82.66663" x2="449.99982" y2="94.66665" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_54"/>
+  <line transform="rotate(90, 449.333, 118.666)" x1="449.33316" y1="112.66662" x2="449.33316" y2="124.66663" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_55"/>
+  <line transform="rotate(-90, 449.333, 147.333)" x1="449.33315" y1="141.33326" x2="449.33315" y2="153.33328" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_56"/>
+ </g>
+</svg>
