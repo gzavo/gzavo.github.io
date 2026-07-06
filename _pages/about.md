@@ -28,7 +28,7 @@ My goal is to introduce <i>Digital Twins in Healthcare</i> that overcome experim
 My <a href="{{ '/research/' | relative_url }}">research strategy</a>  is based on three synergistic domains:
 
 <div style="overflow: hidden;">
-<img src="{{ '/assets/img/research-strategy.svg' | relative_url }}" alt="Research strategy: three pillars for Digital Twins in Healthcare" style="width: 95%; max-width: 680px; display: block; margin: 0.0rem auto;">
+<img src="{{ '/assets/img/research-strategy.svg' | relative_url }}" alt="Research strategy: three pillars for Digital Twins in Healthcare" style="width: 75%; max-width: 680px; display: block; margin: 0.0rem auto;">
 </div>
 <br>
 
