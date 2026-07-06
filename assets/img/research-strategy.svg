@@ -6,7 +6,7 @@
    font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
    version="1.1"
    id="svg2"
-   sodipodi:docname="research-strategy_old2.svg"
+   sodipodi:docname="research-strategy.svg"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -22,14 +22,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="1.0872675"
-     inkscape:cx="344.44145"
+     inkscape:cx="344.44146"
      inkscape:cy="177.96908"
      inkscape:window-width="1639"
      inkscape:window-height="966"
      inkscape:window-x="1186"
-     inkscape:window-y="419"
+     inkscape:window-y="391"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g2" />
+     inkscape:current-layer="svg_13"
+     showgrid="false" />
   <title
      id="title1">Research strategy: three pillars for Digital Twins in Healthcare</title>
   <desc
@@ -188,7 +189,7 @@
          font-size="14px"
          font-weight="500"
          fill="#042c53"
-         id="svg_18">simulation</text>
+         id="svg_18">simulations</text>
       <line
          x1="285"
          y1="120"
