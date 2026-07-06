@@ -1,57 +1,385 @@
-<?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
-  <defs>
-    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
-      <path d="m2,1l6,4l-6,4" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" id="svg_1"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="680"
+   height="345"
+   role="img"
+   font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="research-strategy_old2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0872675"
+     inkscape:cx="344.44145"
+     inkscape:cy="177.96908"
+     inkscape:window-width="1639"
+     inkscape:window-height="966"
+     inkscape:window-x="1186"
+     inkscape:window-y="419"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g2" />
+  <title
+     id="title1">Research strategy: three pillars for Digital Twins in Healthcare</title>
+  <desc
+     id="desc1">Infographic showing three synergistic research pillars — high-performance computing, fundamental biomedicine, and clinical applications — converging into Digital Twins in Healthcare.</desc>
+  <defs
+     id="defs1">
+    <marker
+       id="arrow"
+       viewBox="0 0 10 10"
+       refX="8"
+       refY="5"
+       markerWidth="7"
+       markerHeight="7"
+       orient="auto-start-reverse">
+      <path
+         d="m2,1l6,4l-6,4"
+         fill="none"
+         stroke="context-stroke"
+         stroke-width="1.5"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         id="svg_1" />
     </marker>
   </defs>
-  <title>Research strategy: three pillars for Digital Twins in Healthcare</title>
-  <desc>Infographic showing three synergistic research pillars — high-performance computing, fundamental biomedicine, and clinical applications — converging into Digital Twins in Healthcare.</desc>
-  <g transform="matrix(1, 0, 0, 1, -24.995073, 70.744385)">
-    <title>Layer 1</title>
-    <text x="340" y="32" text-anchor="middle" font-size="16" font-weight="500" fill="#185FA5" id="svg_2" style="white-space: pre;" transform="matrix(0.633812, 0, 0, 0.645987, 17.710249, -78.703026)">Three synergistic pillars</text>
-    <line x1="207.854" y1="-50.279" x2="258.559" y2="-50.279" stroke="#378ADD" id="svg_3" style=""/>
-    <g id="svg_4" style="" transform="matrix(0.633812, 0, 0, 0.645987, 17.710249, -78.703026)">
-      <rect x="20" y="65" width="200" height="105" rx="10" fill="#E6F1FB" stroke="#378ADD" id="svg_5"/>
-      <circle cx="38" cy="93" r="11" fill="#185FA5" id="svg_6"/>
-      <text x="38" y="93" text-anchor="middle" dominant-baseline="central" font-size="11" font-weight="500" fill="#FFFFFF" id="svg_7" style="white-space: pre;">I</text>
-      <text x="120" y="89" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_8" style="white-space: pre;">High-performance</text>
-      <text x="120" y="107" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_9" style="white-space: pre;">computing</text>
-      <line x1="65" y1="120" x2="175" y2="120" stroke="#B5D4F4" id="svg_10"/>
-      <text x="120" y="144" text-anchor="middle" font-size="12" fill="#185FA5" id="svg_11" style="white-space: pre;">Scalable HPC frameworks</text>
-      <text x="120" y="160" text-anchor="middle" font-size="12" font-weight="500" fill="#0C447C" id="svg_12" style="white-space: pre;">Exascale · Energy efficiency</text>
+  <!-- Top eyebrow -->
+  <!-- Pillar I: High-performance computing -->
+  <!-- Pillar II: Fundamental biomedicine -->
+  <!-- Pillar III: Clinical applications -->
+  <!-- Convergence arrows -->
+  <!-- Central hub: Digital Twins in Healthcare -->
+  <!-- Bottom taglines -->
+  <g
+     id="g2">
+    <title
+       id="title2">Layer 1</title>
+    <text
+       x="340"
+       y="32"
+       text-anchor="middle"
+       font-size="16px"
+       font-weight="500"
+       fill="#185fa5"
+       id="svg_2"><tspan
+         style="font-weight:bold"
+         id="tspan2">Three synergistic pillars</tspan></text>
+    <line
+       x1="300"
+       y1="44"
+       x2="380"
+       y2="44"
+       stroke="#378ADD"
+       id="svg_3" />
+    <g
+       id="svg_4">
+      <rect
+         x="20"
+         y="65"
+         width="200"
+         height="105"
+         rx="10"
+         fill="#E6F1FB"
+         stroke="#378ADD"
+         id="svg_5" />
+      <circle
+         cx="38"
+         cy="93"
+         r="11"
+         fill="#185FA5"
+         id="svg_6" />
+      <text
+         x="38"
+         y="93"
+         text-anchor="middle"
+         dominant-baseline="central"
+         font-size="11"
+         font-weight="500"
+         fill="#FFFFFF"
+         id="svg_7">I</text>
+      <text
+         x="120"
+         y="89"
+         text-anchor="middle"
+         font-size="14"
+         font-weight="500"
+         fill="#042C53"
+         id="svg_8">High-performance</text>
+      <text
+         x="120"
+         y="107"
+         text-anchor="middle"
+         font-size="14"
+         font-weight="500"
+         fill="#042C53"
+         id="svg_9">computing</text>
+      <line
+         x1="65"
+         y1="120"
+         x2="175"
+         y2="120"
+         stroke="#B5D4F4"
+         id="svg_10" />
+      <text
+         x="120"
+         y="144"
+         text-anchor="middle"
+         font-size="12"
+         fill="#185FA5"
+         id="svg_11">Scalable HPC frameworks</text>
+      <text
+         x="120"
+         y="160"
+         text-anchor="middle"
+         font-size="12px"
+         font-weight="500"
+         fill="#0c447c"
+         id="svg_12">Exascale · Energy efficiency</text>
     </g>
-    <g id="svg_13" style="" transform="matrix(0.633812, 0, 0, 0.645987, 17.710249, -78.703026)">
-      <rect x="240" y="65" width="200" height="105" rx="10" fill="#E6F1FB" stroke="#378ADD" id="svg_14"/>
-      <circle cx="258" cy="93" r="11" fill="#185FA5" id="svg_15"/>
-      <text x="258" y="93" text-anchor="middle" dominant-baseline="central" font-size="11" font-weight="500" fill="#FFFFFF" id="svg_16" style="white-space: pre;">II</text>
-      <text x="340" y="89" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_17" style="white-space: pre;">Biomedical</text>
-      <text x="340" y="107" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_18" style="white-space: pre;">simulations</text>
-      <line x1="285" y1="120" x2="395" y2="120" stroke="#B5D4F4" id="svg_19"/>
-      <text x="340" y="144" text-anchor="middle" font-size="12" fill="#185FA5" id="svg_20" style="white-space: pre;">Validated multiscale models</text>
-      <text x="340" y="160" text-anchor="middle" font-size="12" font-weight="500" fill="#0C447C" id="svg_21" style="white-space: pre;">Thrombosis · Stroke</text>
+    <g
+       id="svg_13">
+      <rect
+         x="240"
+         y="65"
+         width="200"
+         height="105"
+         rx="10"
+         fill="#E6F1FB"
+         stroke="#378ADD"
+         id="svg_14" />
+      <circle
+         cx="258"
+         cy="93"
+         r="11"
+         fill="#185FA5"
+         id="svg_15" />
+      <text
+         x="258"
+         y="93"
+         text-anchor="middle"
+         dominant-baseline="central"
+         font-size="11"
+         font-weight="500"
+         fill="#FFFFFF"
+         id="svg_16">II</text>
+      <text
+         x="340"
+         y="89"
+         text-anchor="middle"
+         font-size="14px"
+         font-weight="500"
+         fill="#042c53"
+         id="svg_17">Biomedical</text>
+      <text
+         x="340"
+         y="107"
+         text-anchor="middle"
+         font-size="14px"
+         font-weight="500"
+         fill="#042c53"
+         id="svg_18">simulation</text>
+      <line
+         x1="285"
+         y1="120"
+         x2="395"
+         y2="120"
+         stroke="#B5D4F4"
+         id="svg_19" />
+      <text
+         x="340"
+         y="144"
+         text-anchor="middle"
+         font-size="12"
+         fill="#185FA5"
+         id="svg_20">Validated multiscale models</text>
+      <text
+         x="340"
+         y="160"
+         text-anchor="middle"
+         font-size="12px"
+         font-weight="500"
+         fill="#0c447c"
+         id="svg_21">Stroke · Thrombosis</text>
     </g>
-    <g id="svg_22" style="" transform="matrix(0.633812, 0, 0, 0.645987, 17.710249, -78.703026)">
-      <rect x="460" y="65" width="200" height="105" rx="10" fill="#E6F1FB" stroke="#378ADD" id="svg_23"/>
-      <circle cx="478" cy="93" r="11" fill="#185FA5" id="svg_24"/>
-      <text x="478" y="93" text-anchor="middle" dominant-baseline="central" font-size="11" font-weight="500" fill="#FFFFFF" id="svg_25" style="white-space: pre;">III</text>
-      <text x="560" y="89" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_26" style="white-space: pre;">Clinical</text>
-      <text x="560" y="107" text-anchor="middle" font-size="14" font-weight="500" fill="#042C53" id="svg_27" style="white-space: pre;">applications</text>
-      <line x1="505" y1="120" x2="615" y2="120" stroke="#B5D4F4" id="svg_28"/>
-      <text x="560" y="144" text-anchor="middle" font-size="12" fill="#185FA5" id="svg_29" style="white-space: pre;">Patient-specific tools</text>
-      <text x="560" y="160" text-anchor="middle" font-size="12" font-weight="500" fill="#0C447C" id="svg_30" style="white-space: pre;">Device design · Treatment planning</text>
+    <g
+       id="svg_22">
+      <rect
+         x="460"
+         y="65"
+         width="200"
+         height="105"
+         rx="10"
+         fill="#E6F1FB"
+         stroke="#378ADD"
+         id="svg_23" />
+      <circle
+         cx="478"
+         cy="93"
+         r="11"
+         fill="#185FA5"
+         id="svg_24" />
+      <text
+         x="478"
+         y="93"
+         text-anchor="middle"
+         dominant-baseline="central"
+         font-size="11"
+         font-weight="500"
+         fill="#FFFFFF"
+         id="svg_25">III</text>
+      <text
+         x="560"
+         y="89"
+         text-anchor="middle"
+         font-size="14"
+         font-weight="500"
+         fill="#042C53"
+         id="svg_26">Clinical</text>
+      <text
+         x="560"
+         y="107"
+         text-anchor="middle"
+         font-size="14"
+         font-weight="500"
+         fill="#042C53"
+         id="svg_27">applications</text>
+      <line
+         x1="505"
+         y1="120"
+         x2="615"
+         y2="120"
+         stroke="#B5D4F4"
+         id="svg_28" />
+      <text
+         x="560"
+         y="144"
+         text-anchor="middle"
+         font-size="12"
+         fill="#185FA5"
+         id="svg_29">Patient-specific tools</text>
+      <text
+         x="560"
+         y="160"
+         text-anchor="middle"
+         font-size="12px"
+         font-weight="500"
+         fill="#0c447c"
+         id="svg_30">Device design · Treatment</text>
     </g>
-    <line x1="233.207" y1="32.407" x2="233.207" y2="60.831" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_32" style=""/>
-    <rect x="29.753" y="63.415" width="406.907" height="38.759" rx="12" fill="#185FA5" stroke="#042C53" id="svg_34" style=""/>
-    <text x="340" y="246" text-anchor="middle" font-size="18" font-weight="500" fill="#FFFFFF" id="svg_35" style="white-space: pre;" transform="matrix(0.633812, 0, 0, 0.645987, 17.710249, -78.703026)">Digital Twins in Healthcare</text>
-    <text x="340" y="267" text-anchor="middle" font-size="12" fill="#B5D4F4" id="svg_36" style="white-space: pre;" transform="matrix(0.633812, 0, 0, 0.645987, 17.710249, -78.703026)">Patient-specific clinical decision tools</text>
-    <text x="340" y="306" text-anchor="middle" font-size="12" font-weight="500" fill="#185FA5" id="svg_37" style="white-space: pre;" transform="matrix(0.633812, 0, 0, 0.645987, 17.710249, -78.703026)">Beyond experimental limits · Inform clinical decisions</text>
-    <text x="340" y="327" text-anchor="middle" font-size="11" fill="#378ADD" id="svg_38" style="white-space: pre;" transform="matrix(0.633812, 0, 0, 0.645987, 17.710249, -78.703026)">Achievable · Actionable · Validated</text>
-    <line x1="93.768" y1="32.407" x2="93.768" y2="60.831" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_39" style=""/>
-    <line x1="378.983" y1="32.407" x2="378.983" y2="60.831" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_40" style=""/>
-    <line x1="163.064" y1="-23.506" x2="163.065" y2="-15.9" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_31" style="transform-origin: 163.064px -19.703px 0px;" transform="matrix(0, -1, 1, 0, 0, 0)"/>
-    <line x1="163.177" y1="10.053" x2="163.176" y2="17.659" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_41" style="transform-origin: 163.177px 13.856px 0px;" transform="matrix(0, 1, -1, 0, 0, 0)"/>
-    <line x1="302.926" y1="-25.228" x2="302.927" y2="-17.623" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_54" style="transform-origin: 302.926px -21.426px 0px;" transform="matrix(0, -1, 1, 0, 0, 0)"/>
-    <line x1="302.813" y1="9.937" x2="302.813" y2="17.543" stroke="#378ADD" stroke-width="1.5" marker-end="url(#arrow)" id="svg_55" style="transform-origin: 302.812px 13.74px 0px;" transform="matrix(0, 1, -1, 0, 0, 0)"/>
+    <line
+       x1="340"
+       y1="172"
+       x2="340"
+       y2="216"
+       stroke="#378ADD"
+       stroke-width="1.5"
+       marker-end="url(#arrow)"
+       id="svg_32" />
+    <rect
+       x="18.99996"
+       y="220"
+       width="641.99998"
+       height="60"
+       rx="12"
+       fill="#185FA5"
+       stroke="#042C53"
+       id="svg_34" />
+    <text
+       x="340"
+       y="246"
+       text-anchor="middle"
+       font-size="18"
+       font-weight="500"
+       fill="#FFFFFF"
+       id="svg_35">Digital Twins in Healthcare</text>
+    <text
+       x="340"
+       y="267"
+       text-anchor="middle"
+       font-size="12"
+       fill="#B5D4F4"
+       id="svg_36">Patient-specific clinical decision tools</text>
+    <text
+       x="340"
+       y="306"
+       text-anchor="middle"
+       font-size="12"
+       font-weight="500"
+       fill="#185FA5"
+       id="svg_37">Beyond experimental limits · Inform clinical decisions</text>
+    <text
+       x="340"
+       y="327"
+       text-anchor="middle"
+       font-size="11"
+       fill="#378ADD"
+       id="svg_38">Achievable · Actionable · Validated</text>
+    <line
+       x1="120"
+       y1="172"
+       x2="120"
+       y2="216"
+       stroke="#378ADD"
+       stroke-width="1.5"
+       marker-end="url(#arrow)"
+       id="svg_39" />
+    <line
+       x1="570"
+       y1="172"
+       x2="570"
+       y2="216"
+       stroke="#378ADD"
+       stroke-width="1.5"
+       marker-end="url(#arrow)"
+       id="svg_40" />
+    <line
+       transform="rotate(-90, 229.333, 91.3333)"
+       x1="229.33329"
+       y1="85.3333"
+       x2="229.33329"
+       y2="97.33332"
+       stroke="#378ADD"
+       stroke-width="1.5"
+       marker-end="url(#arrow)"
+       id="svg_31" />
+    <line
+       x1="235.99971"
+       y1="151.33295"
+       x2="223.99969"
+       y2="151.33295"
+       stroke="#378add"
+       stroke-width="1.5"
+       marker-end="url(#arrow)"
+       id="svg_41" />
+    <line
+       transform="rotate(-90, 450, 88.6666)"
+       x1="449.99982"
+       y1="82.66663"
+       x2="449.99982"
+       y2="94.66665"
+       stroke="#378ADD"
+       stroke-width="1.5"
+       marker-end="url(#arrow)"
+       id="svg_54" />
+    <line
+       x1="455.33237"
+       y1="150.66617"
+       x2="443.33237"
+       y2="150.66617"
+       stroke="#378add"
+       stroke-width="1.5"
+       marker-end="url(#arrow)"
+       id="svg_55" />
   </g>
 </svg>
