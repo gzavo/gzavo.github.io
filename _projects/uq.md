@@ -4,7 +4,7 @@ title: Computational model credibility
 description: Inverse Uncertainty Quantification of RBC mechanics in HemoCell
 img: /assets/img/projects/uq.jpg
 importance: 3
-category: fundamental biomedicine
+category: multiscale simulations
 impact: "Improves confidence in blood-cell model parameters by combining Bayesian calibration with fast surrogates."
 methods:
   - Inverse UQ

@@ -4,7 +4,7 @@ title: Micro-aneurysms in the retina
 description: Cellular flow in 3D reconstructed retinal micro-aneurysm
 img: /assets/video/micro_aneurysm.gif
 importance: 2
-category: clinical applications
+category: multiscale simulations
 impact: "Clarifies how geometry and red-cell mechanics alter wall stress in retinal micro-aneurysms."
 methods:
   - Image-based geometry

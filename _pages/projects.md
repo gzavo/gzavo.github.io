@@ -2,16 +2,16 @@
 layout: page
 title: Research
 permalink: /research/
-description: Overview of my current projects across fundamental biomedicine, clinical applications, high-performance computing, and exploratory work.
+description: Overview of my current projects across biomedicine, clinical applications, high-performance computing, and exploratory work.
 nav: true
 nav_order: 1
-display_categories: [fundamental biomedicine, clinical applications, high-performance computing, other]
+display_categories: [multiscale simulations, clinical applications, high-performance computing, other]
 horizontal: true
 ---
 
 &emsp;<b>(I) High-Performance Computing </b> — I develop scalable computational frameworks like [HemoCell](https://www.hemocell.eu), an open-source cellular blood flow simulator that achieves exceptional parallel efficiency (>80% on 300,000+ CPU cores) and enables investigations at cellular resolution that exceed current experimental capabilities.
 
-&emsp;<b>(II) Fundamental Biomedicine </b> — My work advances understanding of [blood rheology](https://pubs.aip.org/aip/pof/article/31/3/031903/260133), [platelet aggregation dynamics](https://doi.org/10.1016/j.compbiomed.2024.109010), and mechanosensitive processes in thrombosis through validated computational models that reproduce emergent transport characteristics of complex cellular systems.
+&emsp;<b>(II) Multiscale Simulations </b> — My work advances understanding of [blood rheology](https://pubs.aip.org/aip/pof/article/31/3/031903/260133), [platelet aggregation dynamics](https://doi.org/10.1016/j.compbiomed.2024.109010), and mechanosensitive processes in thrombosis through validated computational models that reproduce emergent transport characteristics from complex cellular systems to organ-scale blood flows.
 
 &emsp;<b>(III) Clinical Applications </b> — I translate fundamental insights into actionable clinical tools, [including virtual medical device deployment simulations](https://onlinelibrary.wiley.com/doi/pdf/10.1002/cnm.3340) for endovascular aneurysm treatment and patient-specific models for stroke intervention planning.
 

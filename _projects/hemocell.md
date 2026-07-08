@@ -4,7 +4,7 @@ title: Digital Twin of cellular blood
 description: High-performance microscale simulations with HemoCell
 img: /assets/video/hemocell.gif
 importance: 1
-category: fundamental biomedicine
+category: multiscale simulations
 impact: "Enables cell-resolved blood simulation at scales large enough to study clinically relevant flow domains."
 methods:
   - Lattice Boltzmann

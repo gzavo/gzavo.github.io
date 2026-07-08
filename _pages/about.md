@@ -21,14 +21,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 <h5>
-My goal is to introduce <i>Digital Twins in Healthcare</i> that overcome experimental limitations to directly <b>improve patient care</b>. 
+I develop <b>computational models of human physiology</b> that combine high-performance computing, multiscale simulation and clinical data into <i>predictive digital twins</i> to improve patient care.
 </h5>
 <br>
 
-My <a href="{{ '/research/' | relative_url }}">research strategy</a>  is based on three synergistic domains:
-
 <div style="overflow: hidden;">
-<img src="{{ '/assets/img/research-strategy.svg' | relative_url }}" alt="Research strategy: three pillars for Digital Twins in Healthcare" style="width: 95%; max-width: 680px; display: block; margin: 0.0rem auto;">
+<img src="{{ '/assets/img/research-strategy.svg' | relative_url }}" alt="Research strategy for Digital Twins in Healthcare" style="width: 100%; max-width: 680px; display: block; margin: 0.0rem auto;">
 </div>
 <br>
 
@@ -42,6 +40,6 @@ My <a href="{{ '/research/' | relative_url }}">research strategy</a>  is based o
 
 <a href="https://etp4hpc-handbook.online/compbiomed/">CompBioMed</a> - (EU Horizon, Co-PI, WP leader, 2020) 
 
-<br><br>
+<br>
 
 

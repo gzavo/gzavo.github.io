@@ -4,7 +4,7 @@ title: Flow mechanics of arterial thrombosis
 description: Investigating the role of the micro-mechanical environment
 img: /assets/img/projects/platelet_vwf.jpg
 importance: 3
-category: fundamental biomedicine
+category: multiscale simulations
 impact: "Explains how elongational flow and micro-scale blood conditions regulate early platelet adhesion."
 methods:
   - Hemodynamic analysis

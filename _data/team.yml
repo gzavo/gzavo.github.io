@@ -28,18 +28,17 @@ current_team:
     focus: "Computational design of auxetic materials for clinical implants."
     image: "/assets/img/Colleagues_Vera.jpeg"
     alt: "Portrait of Vera Zut"
+  - name: "Carlotta Farinelli"
+    role: "PhD researcher"
+    focus: "Multiscale thrombus formation modelling."
+    image: "/assets/img/Colleagues_open.jpg"
+    alt: "Portrait of Carlotta Farinelli"
 
 open_positions:
   - title: "PostDoc researcher"
     topic: "Vascular Immunology - Leukocyte extravasation"
     background: "Strong background in vascular biology, computational biomedicine, and scientific programming."
-    start: "Start window: 2026 (flexible)."
-    opening_url:
-    opening_label:
-  - title: "PhD researcher"
-    topic: "ThromboRisk MSCA - cellular processes in thrombosis"
-    background: "Background in computational science, biomechanics, or biomedical engineering with coding experience."
-    start: "Start window: 2026 (subject to funding timeline)."
+    start: "Start window: 2026 end / 2027 beginning (flexible)."
     opening_url:
     opening_label:
 

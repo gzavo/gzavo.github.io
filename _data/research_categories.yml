@@ -1,6 +1,6 @@
-- key: fundamental biomedicine
-  label: Fundamental Biomedicine
-  description: Mechanics of blood, cells, and thrombus formation at clinically relevant scales.
+- key: multiscale simulations
+  label: Multiscale simulations
+  description: Mechanics of blood, cells, and thrombus formation across scales.
 
 - key: clinical applications
   label: Clinical Applications

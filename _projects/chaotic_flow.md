@@ -4,7 +4,7 @@ title: Chaotic flows
 description: Chaotic flow patterns in diseased arteries
 img: /assets/img/projects/chaotic.jpg
 importance: 4
-category: clinical applications
+category: multiscale simulations
 impact: "Reveals hidden transport patterns in aneurysm-prone arteries that standard flow metrics can miss."
 methods:
   - Patient-specific CFD

@@ -4,7 +4,7 @@ title: Vascular injury
 description: Predicting the effects of microneedles and mosquito bites
 img: /assets/video/puncture2.gif
 importance: 2
-category: fundamental biomedicine
+category: multiscale simulations
 impact: "Links puncture-scale flow mechanics to platelet transport patterns relevant for early hemostasis."
 methods:
   - In silico and in vitro
