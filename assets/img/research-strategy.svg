@@ -1,16 +1,23 @@
 <?xml version="1.0"?>
-<svg width="650" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" display="block">
+<svg width="650" height="380" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" display="block">
  <title id="rs-title">Research strategy: one computational engine applied across the vascular system</title>
  <desc id="rs-desc">Three computational capabilities converge into one predictive engine (trustworthy Digital Twins in Healthcare), which is then applied outward across the vascular system from cells to vessels to implanted devices.</desc>
  <!-- ============ THEME (edit palette here) ============ -->
- <style>.eyebrow{font-size:11px;font-weight:700;letter-spacing:.11em;fill:#5b6675;}
-    .ctitle{font-size:16px;font-weight:700;fill:#16233b;}
-    .cbody{font-size:14.5px;font-weight:400;fill:#48505f;}
+ <style>:root{
+      --ink:#16233b; --muted:#5b6675; --body:#48505f; --line:#dde3ec;
+      --cool:#1b4f72; --cool-2:#2874a6; --cool-bg:#eef4f9; --cool-stroke:#d3e2ee;
+      --cell:#922b21;   --cell-bg:#f7ece9;   --cell-stroke:#eed7d1;
+      --vessel:#c0392b; --vessel-bg:#fcecea; --vessel-stroke:#f3d6d2;
+      --device:#ca6f1e; --device-bg:#fbf2e4; --device-stroke:#f0dfc4;
+    }
+    .eyebrow{font-size:11px;font-weight:700;letter-spacing:.11em;fill:var(--muted);}
+    .ctitle{font-size:16px;font-weight:700;fill:var(--ink);}
+    .cbody{font-size:14.5px;font-weight:400;fill:var(--body);}
     .tag{font-size:12.5px;font-weight:500;
          font-family:ui-monospace,&#x27;SF Mono&#x27;,&#x27;Cascadia Code&#x27;,Menlo,Consolas,monospace;}
     .core-cap{font-size:13px;font-weight:600;letter-spacing:.15em;fill:#ffffff;fill-opacity:.85;}
     .core-big{font-size:24px;font-weight:800;fill:#ffffff;letter-spacing:.01em;}
-    .axis{font-size:11px;font-weight:500;letter-spacing:.06em;fill:#5b6675;
+    .axis{font-size:11px;font-weight:500;letter-spacing:.06em;fill:var(--muted);
           font-family:ui-monospace,&#x27;SF Mono&#x27;,Menlo,Consolas,monospace;}</style>
  <defs>
   <marker id="arrowCool" markerHeight="7" markerWidth="7" orient="auto-start-reverse" refX="8" refY="5" viewBox="0 0 10 10">
@@ -40,96 +47,52 @@
  <!-- ============ AXIS CAPTION ============ -->
  <g class="layer">
   <title>Layer 1</title>
-  <text class="eyebrow" font-size="11" id="svg_3" x="6.47" y="182.27">COMPUTATIONAL CORE</text>
-  <g id="svg_4" transform="matrix(1, 0, 0, 1, 4.26627, 7.8661)">
-   <rect fill="#eef4f9" height="140" id="svg_5" rx="12" stroke="#d3e2ee" width="200"/>
-   <g fill="#2874a6" id="svg_6">
-    <rect height="7" id="svg_7" rx="1.5" width="7" x="20" y="16"/>
-    <rect height="7" id="svg_8" rx="1.5" width="7" x="31" y="16"/>
-    <rect height="7" id="svg_9" rx="1.5" width="7" x="42" y="16"/>
-    <rect height="7" id="svg_10" rx="1.5" width="7" x="20" y="27"/>
-    <rect height="7" id="svg_11" rx="1.5" width="7" x="31" y="27"/>
-    <rect height="7" id="svg_12" rx="1.5" width="7" x="42" y="27"/>
-    <rect height="7" id="svg_13" rx="1.5" width="7" x="20" y="38"/>
-    <rect height="7" id="svg_14" rx="1.5" width="7" x="31" y="38"/>
-    <rect height="7" id="svg_15" rx="1.5" width="7" x="42" y="38"/>
-   </g>
-   <text class="ctitle" id="svg_16" x="14" y="72">Large-scale computing</text>
-   <text class="tag" fill="#2874a6" id="svg_17" x="16" y="90">&gt;80% eff · 300k+ cores</text>
-   <text class="cbody" id="svg_18" x="16" y="110">Cell-resolved blood flow,</text>
-   <text class="cbody" id="svg_19" x="16" y="126">beyond experiment&#x27;s reach.</text>
-  </g>
-  <g id="svg_20" transform="translate(0, -0.520833) matrix(1, 0, 0, 1, 224.266, 8.38693)">
-   <rect fill="#eef4f9" height="140" id="svg_21" rx="12" stroke="#d3e2ee" width="200"/>
-   <g fill="none" id="svg_22" stroke="#2874a6" stroke-width="2">
-    <circle cx="35" cy="31" id="svg_23" r="15"/>
-    <circle cx="35" cy="31" id="svg_24" r="9.5"/>
-   </g>
-   <circle cx="35" cy="31" fill="#2874a6" id="svg_25" r="4"/>
-   <text class="ctitle" id="svg_26" x="16" y="72">Multiscale modelling</text>
-   <text class="tag" fill="#2874a6" id="svg_27" x="16" y="90">molecule → cell → vessel</text>
-   <text class="cbody" id="svg_28" x="16" y="110">From molecules to whole</text>
-   <text class="cbody" id="svg_29" x="16" y="126">vessels, in one pipeline.</text>
-  </g>
-  <g id="svg_30" transform="translate(0, -0.520833) translate(0, -0.520833) translate(0, -0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(0, 1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(460, 38)">
-   <rect fill="#eef4f9" height="140" id="svg_31" rx="12" stroke="#d3e2ee" width="200"/>
-   <circle cx="35" cy="31" fill="none" id="svg_32" r="15" stroke="#2874a6" stroke-width="2"/>
-   <path d="m28,31l5,6l10,-12" fill="none" id="svg_33" stroke="#2874a6" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6"/>
-   <text class="ctitle" id="svg_34" x="16" y="72">Quantified trust</text>
-   <text class="tag" fill="#2874a6" id="svg_35" x="16" y="90">verify · validate · UQ</text>
-   <text class="cbody" id="svg_36" x="16" y="110">Validation and UQ make</text>
-   <text class="cbody" id="svg_37" x="16" y="126">predictions trustworthy.</text>
-  </g>
-  <g fill="none" id="svg_38" stroke="#2874a6" stroke-width="1.6" transform="translate(0, -0.520833) translate(0, -0.520833) translate(0, -0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(0, 1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989)">
+  <text class="eyebrow" font-size="11" id="svg_3" transform="matrix(1, 0, 0, 1, 0, 0)" x="71.02" y="140.91">COMPUTATIONAL CORE</text>
+  <rect fill="var(--cool-bg)" height="140" id="svg_5" rx="12" stroke="var(--cool-stroke)" transform="translate(3.81172, 148.321) scale(1, 0.629032) translate(-3.81172, -148.321) matrix(1, 0, 0, 1, 4.26627, 7.8661)" width="200" x="0.91" y="-88.16"/>
+  <text class="ctitle" font-size="16" id="svg_16" transform="matrix(1, 0, 0, 1, 4.26627, 7.8661)" x="14.91" y="16.55">Large-scale computing</text>
+  <text class="tag" fill="var(--cool-2)" font-size="12.5" id="svg_17" transform="matrix(1, 0, 0, 1, 4.26627, 7.8661)" x="16.91" y="34.55">&gt;80% eff · 300k+ cores</text>
+  <text class="cbody" font-size="14.5" id="svg_18" transform="matrix(1, 0, 0, 1, 4.26627, 7.8661)" x="16.91" y="54.55">Cell-resolved blood flow,</text>
+  <text class="cbody" font-size="14.5" id="svg_19" transform="matrix(1, 0, 0, 1, 4.26627, 7.8661)" x="16.91" y="70.55">beyond experiment&#x27;s reach.</text>
+  <rect fill="var(--cool-bg)" height="140" id="svg_21" rx="12" stroke="var(--cool-stroke)" transform="translate(223.811, 148.321) scale(1, 0.635484) translate(-223.811, -148.321) matrix(1, 0, 0, 1, 224.266, 7.8661)" width="200" x="0.91" y="-87.26"/>
+  <text class="ctitle" font-size="16" id="svg_26" transform="matrix(1, 0, 0, 1, 224.266, 7.8661)" x="16.91" y="16.55">Multiscale modelling</text>
+  <text class="tag" fill="var(--cool-2)" font-size="12.5" id="svg_27" transform="matrix(1, 0, 0, 1, 224.266, 7.8661)" x="16.91" y="34.55">molecule → cell → vessel</text>
+  <text class="cbody" font-size="14.5" id="svg_28" transform="matrix(1, 0, 0, 1, 224.266, 7.8661)" x="16.91" y="54.55">From molecules to whole</text>
+  <text class="cbody" font-size="14.5" id="svg_29" transform="matrix(1, 0, 0, 1, 224.266, 7.8661)" x="16.91" y="70.55">vessels, in one pipeline.</text>
+  <rect fill="var(--cool-bg)" height="140" id="svg_31" rx="12" stroke="var(--cool-stroke)" transform="translate(443.812, 148.321) scale(1, 0.63871) translate(-443.812, -148.321) matrix(1, 0, 0, 1, 444.266, 7.8661)" width="200" x="0.91" y="-86.82"/>
+  <text class="ctitle" font-size="16" id="svg_34" transform="matrix(1, 0, 0, 1, 444.266, 7.8661)" x="16.91" y="16.55">Quantified trust</text>
+  <text class="tag" fill="var(--cool-2)" font-size="12.5" id="svg_35" transform="matrix(1, 0, 0, 1, 444.266, 7.8661)" x="16.91" y="34.55">verify · validate · UQ</text>
+  <text class="cbody" font-size="14.5" id="svg_36" transform="matrix(1, 0, 0, 1, 444.266, 7.8661)" x="16.91" y="54.55">Validation and UQ make</text>
+  <text class="cbody" font-size="14.5" id="svg_37" transform="matrix(1, 0, 0, 1, 444.266, 7.8661)" x="16.91" y="70.55">predictions trustworthy.</text>
+  <g fill="none" id="svg_38" stroke="var(--cool-2)" stroke-width="1.6" transform="translate(0.909091, -55.4545) translate(0, -0.520833) translate(0, -0.520833) translate(0, -0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-0.520833) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(-1.0989) translate(0, 1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989) translate(0, -1.0989)">
    <path d="m120,178c0,28 170,24 170,50" id="svg_39" marker-end="url(#arrowCool)"/>
    <path d="m340,178c0,24 0,26 0,50" id="svg_40" marker-end="url(#arrowCool)"/>
    <path d="m560,178c0,28 -170,24 -170,50" id="svg_41" marker-end="url(#arrowCool)"/>
   </g>
-  <rect fill="url(#coreGrad)" height="80" id="svg_42" rx="18" transform="matrix(1, 0, 0, 1, 0, 0)" width="220" x="214.26" y="198.87"/>
-  <text class="core-cap" font-size="11" id="svg_43" text-anchor="middle" x="324.26" y="219.87">TRUSTWORTHY</text>
-  <text class="core-big" font-size="19" id="svg_44" text-anchor="middle" x="324.26" y="248.5">DIGITAL TWINS</text>
-  <text class="core-cap" font-size="11" id="svg_45" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="324.26" y="267.87">in Healthcare</text>
-  <text class="eyebrow" font-size="11" id="svg_46" x="9.23" y="312.95">APPLIED OUTWARD</text>
-  <g fill="none" id="svg_47" stroke="#b03a2e" stroke-width="1.6" transform="translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) matrix(1, 0, 0, 1, -15.7337, -51.1339)">
+  <rect fill="url(#coreGrad)" height="80" id="svg_42" rx="18" width="220" x="215.17" y="143.42"/>
+  <text class="core-cap" font-size="11" id="svg_43" text-anchor="middle" x="325.17" y="164.42">TRUSTWORTHY</text>
+  <text class="core-big" font-size="19" id="svg_44" text-anchor="middle" x="325.17" y="193.05">DIGITAL TWINS</text>
+  <text class="core-cap" font-size="11" id="svg_45" text-anchor="middle" x="325.17" y="212.42">in Healthcare</text>
+  <text class="eyebrow" font-size="11" id="svg_46" x="75.14" y="231.13">APPLIED OUTWARD</text>
+  <g fill="none" id="svg_47" stroke="#b03a2e" stroke-width="1.6" transform="translate(0.909091, -55.4545) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) matrix(1, 0, 0, 1, -15.7337, -51.1339)">
    <path d="m340,336l0,30" id="svg_48"/>
    <path d="m340,366c0,13 -220,10 -220,26" id="svg_49" marker-end="url(#arrowWarm)"/>
    <path d="m340,366c0,13 0,12 0,26" id="svg_50" marker-end="url(#arrowWarm)"/>
    <path d="m340,366c0,13 220,10 220,26" id="svg_51" marker-end="url(#arrowWarm)"/>
   </g>
-  <g id="svg_52" transform="translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) matrix(1, 0, 0, 1, 4.26627, 338.866)">
-   <rect fill="#f7ece9" height="140" id="svg_53" rx="12" stroke="#eed7d1" width="200"/>
-   <g fill="#922b21" id="svg_54">
-    <ellipse cx="30" cy="28" fill-opacity="0.9" id="svg_55" rx="9" ry="5.5"/>
-    <ellipse cx="44" cy="36" fill-opacity="0.65" id="svg_56" rx="8" ry="5"/>
-    <ellipse cx="31" cy="42" fill-opacity="0.8" id="svg_57" rx="7" ry="4.5"/>
-   </g>
-   <text class="ctitle" id="svg_58" x="16" y="72">Inside the vessel</text>
-   <text class="tag" fill="#922b21" id="svg_59" x="16" y="90">thrombosis · platelets</text>
-   <text class="cbody" id="svg_60" x="16" y="110">Platelets, blood and</text>
-   <text class="cbody" id="svg_61" x="16" y="126">thrombus: how clots form.</text>
-  </g>
-  <g id="svg_62" transform="translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) matrix(1, 0, 0, 1, 224.266, 338.866)">
-   <rect fill="#fcecea" height="140" id="svg_63" rx="12" stroke="#f3d6d2" width="200"/>
-   <g fill="none" id="svg_64" stroke="#c0392b" stroke-linecap="round" stroke-width="2.4">
-    <path d="m18,42l34,0" id="svg_65"/>
-    <path d="m18,24c12,0 12,-11 22,-11c10,0 10,11 12,11" id="svg_66" stroke-width="2"/>
-    <path d="m18,42l0,-18m34,18l0,-18" id="svg_67"/>
-   </g>
-   <text class="ctitle" id="svg_68" x="16" y="72">The vessel itself</text>
-   <text class="tag" fill="#c0392b" id="svg_69" x="16" y="90">stroke · aneurysms</text>
-   <text class="cbody" id="svg_70" x="16" y="110">Patient models for stroke</text>
-   <text class="cbody" id="svg_71" x="16" y="126">and aneurysm treatment.</text>
-  </g>
-  <g id="svg_72" transform="translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) matrix(1, 0, 0, 1, 444.266, 338.866)">
-   <rect fill="#fbf2e4" height="140" id="svg_73" rx="12" stroke="#f0dfc4" width="200"/>
-   <g fill="none" id="svg_74" stroke="#ca6f1e" stroke-linecap="round" stroke-width="2">
-    <rect height="22" id="svg_75" rx="4" width="30" x="20" y="22"/>
-    <path d="m20,29l15,-7m-7,22l22,-12m-30,5l24,-12m-9,19l15,-7" id="svg_76"/>
-   </g>
-   <text class="ctitle" id="svg_77" x="16" y="72">Medical devices</text>
-   <text class="tag" fill="#ca6f1e" id="svg_78" x="16" y="90">implants · diverters</text>
-   <text class="cbody" id="svg_79" x="16" y="110">Design and optimisation</text>
-   <text class="cbody" id="svg_80" x="16" y="126">of implants and devices.</text>
-  </g>
+  <rect fill="var(--device-bg)" height="140" id="svg_73" rx="12" stroke="var(--device-stroke)" transform="translate(443.811, 334.411) scale(1, 0.693548) translate(-443.811, -334.411) matrix(1, 0, 0, 1, 444.266, 334.866)" width="200" x="0.91" y="-79.96"/>
+  <text class="ctitle" font-size="16" id="svg_77" transform="matrix(1, 0, 0, 1, 444.266, 334.866)" x="17.82" y="-26.64">Medical devices</text>
+  <text class="tag" fill="var(--device)" font-size="12.5" id="svg_78" transform="matrix(1, 0, 0, 1, 444.266, 334.866)" x="17.82" y="-8.64">implants · diverters</text>
+  <text class="cbody" font-size="14.5" id="svg_79" transform="matrix(1, 0, 0, 1, 444.266, 334.866)" x="17.82" y="11.36">Design and optimisation</text>
+  <text class="cbody" font-size="14.5" id="svg_80" transform="matrix(1, 0, 0, 1, 444.266, 334.866)" x="17.82" y="27.36">of implants and devices.</text>
+  <rect fill="var(--cell-bg)" height="140" id="svg_53" rx="12" stroke="var(--cell-stroke)" transform="matrix(1, 0, 0, 0.683871, 0.909095, -139.689)" width="200" x="4.72" y="613.95"/>
+  <text class="ctitle" font-size="16" id="svg_58" transform="matrix(1, 0, 0, 1, 4.26627, 334.866) matrix(1, 0, 0, 1, 0.454545, -43.6364)" x="16.91" y="16.55">Inside the vessel</text>
+  <text class="tag" fill="var(--cell)" font-size="12.5" id="svg_59" transform="matrix(1, 0, 0, 1, 4.26627, 334.866) matrix(1, 0, 0, 1, 0.454545, -43.6364)" x="16.91" y="34.55">thrombosis · platelets</text>
+  <text class="cbody" font-size="14.5" id="svg_60" transform="matrix(1, 0, 0, 1, 4.26627, 334.866) matrix(1, 0, 0, 1, 0.454545, -43.6364)" x="16.91" y="54.55">Platelets, blood and</text>
+  <text class="cbody" font-size="14.5" id="svg_61" transform="matrix(1, 0, 0, 1, 4.26627, 334.866) matrix(1, 0, 0, 1, 0.454545, -43.6364)" x="16.91" y="70.55">thrombus: how clots form.</text>
+  <rect fill="var(--vessel-bg)" height="140" id="svg_63" rx="12" stroke="var(--vessel-stroke)" transform="translate(224.265, 336.983) scale(1, 1.02455) translate(-224.265, -336.983) matrix(1, 0, 0, 0.654839, -223.357, -474.866)" width="200" x="448.99" y="1157.8"/>
+  <text class="ctitle" font-size="16" id="svg_68" transform="matrix(1, 0, 0, 1, 224.266, 334.866) matrix(1, 0, 0, 1, 0.454544, -45.9091)" x="16.91" y="16.55">The vessel itself</text>
+  <text class="tag" fill="var(--vessel)" font-size="12.5" id="svg_69" transform="matrix(1, 0, 0, 1, 224.266, 334.866) matrix(1, 0, 0, 1, 0.454544, -45.9091)" x="16.91" y="34.55">stroke · aneurysms</text>
+  <text class="cbody" font-size="14.5" id="svg_70" transform="matrix(1, 0, 0, 1, 224.266, 334.866) matrix(1, 0, 0, 1, 0.454544, -45.9091)" x="16.91" y="54.55">Patient models for stroke</text>
+  <text class="cbody" font-size="14.5" id="svg_71" transform="matrix(1, 0, 0, 1, 224.266, 334.866) matrix(1, 0, 0, 1, 0.454544, -45.9091)" x="16.91" y="70.55">and aneurysm treatment.</text>
  </g>
 </svg>
