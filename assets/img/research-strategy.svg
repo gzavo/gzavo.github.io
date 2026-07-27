@@ -48,10 +48,10 @@
   <text class="tag" fill="var(--cool-2)" font-size="12.5" id="svg_17" transform="matrix(1, 0, 0, 1, 4.26627, 7.8661)" x="16.91" y="34.55">&gt;80% eff · 300k+ cores</text>
   <text class="cbody" font-size="14.5" id="svg_18" transform="matrix(1, 0, 0, 1, 4.26627, 7.8661)" x="16.91" y="54.55">Cell-resolved blood flow,</text>
   <text class="cbody" font-size="14.5" id="svg_19" transform="matrix(1, 0, 0, 1, 4.26627, 7.8661)" x="16.91" y="70.55">beyond experiment&#x27;s reach.</text>
-  <rect fill="var(--cool-bg)" height="140" id="svg_21" rx="12" stroke="var(--cool-stroke)" transform="translate(223.811, 148.321) scale(1, 0.635484) translate(-223.811, -148.321) matrix(1, 0, 0, 1, 224.266, 7.8661)" width="200" x="0.91" y="-87.26"/>
+  <rect fill="var(--cool-bg)" height="140" id="svg_21" rx="12" stroke="var(--cool-stroke)" transform="matrix(1, 0, 0, 1, 0, 0) matrix(1, 0, 0, 0.635484, 0.455002, -89.2568)" width="200" x="224.72" y="146.14"/>
   <text class="ctitle" font-size="16" id="svg_26" transform="matrix(1, 0, 0, 1, 224.266, 7.8661)" x="16.91" y="16.55">Multiscale modelling</text>
   <text class="tag" fill="var(--cool-2)" font-size="12.5" id="svg_27" transform="matrix(1, 0, 0, 1, 224.266, 7.8661)" x="16.91" y="34.55">molecule → cell → vessel</text>
-  <text class="cbody" font-size="14.5" id="svg_28" transform="matrix(1, 0, 0, 1, 224.266, 7.8661)" x="16.91" y="54.55">From molecules to whole</text>
+  <text class="cbody" font-size="14.5" id="svg_28" transform="matrix(1, 0, 0, 1, 0, 0) matrix(1, 0, 0, 1, 224.266, 7.8661)" x="16.91" y="54.55">From molecules to whole</text>
   <text class="cbody" font-size="14.5" id="svg_29" transform="matrix(1, 0, 0, 1, 0, 0) matrix(1, 0, 0, 1, 224.266, 7.8661)" x="16.91" y="70.55">vessels, in one pipeline.</text>
   <rect fill="var(--cool-bg)" height="140" id="svg_31" rx="12" stroke="var(--cool-stroke)" transform="translate(443.812, 148.321) scale(1, 0.63871) translate(-443.812, -148.321) matrix(1, 0, 0, 1, 444.266, 7.8661)" width="200" x="0.91" y="-86.82"/>
   <text class="ctitle" font-size="16" id="svg_34" transform="matrix(1, 0, 0, 1, 444.266, 7.8661)" x="16.91" y="16.55">Quantified trust</text>
@@ -63,12 +63,12 @@
    <path d="m340,178c0,24 0,26 0,50" id="svg_40" marker-end="url(#arrowCool)"/>
    <path d="m560,178c0,28 -170,24 -170,50" id="svg_41" marker-end="url(#arrowCool)"/>
   </g>
-  <rect fill="#eeeee7" height="80" id="svg_42" rx="18" stroke="var(--ink)" stroke-width="0.4" width="220" x="215.17" y="143.42"/>
-  <text class="core-cap" font-size="11" id="svg_43" text-anchor="middle" x="325.17" y="164.42">TRUSTWORTHY</text>
-  <text class="core-big" font-size="19" id="svg_44" text-anchor="middle" x="325.17" y="193.05">DIGITAL TWINS</text>
-  <text class="core-cap" font-size="11" id="svg_45" text-anchor="middle" x="325.17" y="212.42">in Healthcare</text>
+  <rect fill="#f9f9f9" height="80" id="svg_42" rx="18" stroke="var(--ink)" stroke-width="0.4" width="220" x="215.6" y="145.16"/>
+  <text class="core-cap" font-size="11" id="svg_43" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="325.17" y="164.42">TRUSTWORTHY</text>
+  <text class="core-big" font-size="19" id="svg_44" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="325.17" y="193.05">DIGITAL TWINS</text>
+  <text class="core-cap" font-size="11" id="svg_45" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="325.17" y="212.42">in Healthcare</text>
   <text class="eyebrow" font-size="11" id="svg_46" x="75.14" y="231.13">APPLIED OUTWARD</text>
-  <g fill="none" id="svg_47" stroke="#b03a2e" stroke-width="1.6" transform="translate(0.909091, -55.4545) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, 1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) translate(0, -1) matrix(1, 0, 0, 1, -15.7337, -51.1339)">
+  <g fill="none" id="svg_47" stroke="#b03a2e" stroke-width="1.6" transform="matrix(1, 0, 0, 1, 0, 0) translate(103.941, 278.646) scale(1, 0.933076) translate(-103.941, -278.646) translate(0.909091, -55.4545) matrix(1, 0, 0, 1, -15.7337, -59.1339)">
    <path d="m340,336l0,30" id="svg_48"/>
    <path d="m340,366c0,13 -220,10 -220,26" id="svg_49" marker-end="url(#arrowWarm)"/>
    <path d="m340,366c0,13 0,12 0,26" id="svg_50" marker-end="url(#arrowWarm)"/>
