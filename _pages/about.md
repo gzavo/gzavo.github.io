@@ -12,7 +12,7 @@ profile:
   address: >
     <b>Assistant Professor</b> at
     <a href='https://computationalscience.nl'>Computational Science Lab</a>, <br>
-    <b>Director</b> of <a href='https://www.uva.nl/msc-computational-science'>Computational Science Master program</a> <br>
+    <b>Program Director</b> of <a href='https://www.uva.nl/msc-computational-science'>MSc Computational Science</a> <br>
     University of Amsterdam    
 
 news: true  # includes a list of news items
