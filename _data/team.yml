@@ -31,8 +31,13 @@ current_team:
   - name: "Carlotta Farinelli"
     role: "PhD researcher"
     focus: "Multiscale thrombus formation modelling."
-    image: "/assets/img/Colleagues_open.jpg"
+    image: "/assets/img/Colleagues_Carlotta.jpg"
     alt: "Portrait of Carlotta Farinelli"
+  - name: "Tai Ho"
+    role: "Scientific Programmer"
+    focus: "Software automation pipeline and medical image segmentation AI."
+    image: "/assets/img/Colleagues_Tai.jpg"
+    alt: "Portrait of Tai Ho"
 
 open_positions:
   - title: "PostDoc researcher"
