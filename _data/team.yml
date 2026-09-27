@@ -3,11 +3,6 @@ mission:
   text: "We combine computational modeling, high-performance computing, and clinically informed questions to study blood flow mechanics across scales. The team spans biomedicine, numerical methods, and software engineering with a shared focus on translational simulation science."
 
 current_team:
-  - name: "Giulia Pederzani"
-    role: "PostDoc researcher"
-    focus: "Finite element modelling of medical implants."
-    image: "/assets/img/Colleagues_Giulia.jpg"
-    alt: "Portrait of Giulia Pederzani"
   - name: "Jelle van Dijk"
     role: "PhD researcher"
     focus: "Performance modelling and dynamic load-balancing of HPC applications."
@@ -18,11 +13,6 @@ current_team:
     focus: "Modelling thrombus growth mechanics."
     image: "/assets/img/Colleagues_Niksa.jpg"
     alt: "Portrait of Niksa Mohammadi Bagheri"
-  - name: "Frank Otto"
-    role: "PhD researcher"
-    focus: "Computational modelling of brain aneurysm treatments."
-    image: "/assets/img/Colleagues_Frank.jpg"
-    alt: "Portrait of Frank Otto"
   - name: "Vera Zut"
     role: "PhD researcher"
     focus: "Computational design of auxetic materials for clinical implants."
@@ -48,6 +38,16 @@ open_positions:
     opening_label:
 
 alumni:
+  - name: "Giulia Pederzani"
+    role: "PostDoc researcher"
+    focus: "Finite element modelling of medical implants."
+    image: "/assets/img/Colleagues_Giulia.jpg"
+    alt: "Portrait of Giulia Pederzani"
+  - name: "Frank Otto"
+    role: "PhD researcher"
+    focus: "Computational modelling of brain aneurysm treatments."
+    image: "/assets/img/Colleagues_Frank.jpg"
+    alt: "Portrait of Frank Otto"
   - name: "Dr. Yue Hao"
     role: "PhD researcher"
     focus: "Flow mechanics in the microstructure of platelet aggregates."

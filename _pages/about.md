@@ -20,16 +20,20 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+<div style="overflow: hidden;">
+<img src="{{ '/assets/img/DT-in-healthcare.jpg' | relative_url }}" alt="Logo" style="width: 100%; max-width: 680px; display: block; margin: 0.0rem auto;">
+</div>
+<br>
 <h5>
 I develop <b>computational models of human physiology</b> that combine high-performance computing, multiscale simulation and clinical data into <i>predictive digital twins</i> to improve patient care.
 </h5>
 <br>
-
 <div style="overflow: hidden;">
-<img src="{{ '/assets/img/research-strategy.svg' | relative_url }}" alt="Research strategy for Digital Twins in Healthcare" style="width: 100%; max-width: 680px; display: block; margin: 0.0rem auto;">
+<img src="{{ '/assets/img/Research-concept-full.jpg' | relative_url }}" alt="Research strategy for Digital Twins in Healthcare" style="width: 100%; max-width: 680px; display: block; margin: 0.0rem auto;">
 </div>
 <br>
-
+<br>
+<br>
 **Recent projects** <br>
 
 <a href="https://www.thromborisk.eu/">ThromboRisk</a> (EU MSCA, Co-PI, 2026); 

@@ -35,6 +35,30 @@ body.sticky-bottom-footer {
 
 // TODO: redefine content layout.
 
+.about-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 3fr) minmax(0, 7fr);
+  gap: 3rem;
+  align-items: start;
+}
+
+.about-sidebar .post-title {
+  font-size: 2.125rem;
+}
+
+.about-sidebar .profile {
+  float: none;
+  width: 100%;
+  margin: 0;
+}
+
+@media (max-width: 767.98px) {
+  .about-layout {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.5rem;
+  }
+}
+
 
 /******************************************************************************
  * Publications
