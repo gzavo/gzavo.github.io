@@ -10,7 +10,7 @@ profile:
   image: profile_pres.jpg #Small_square_lowres2.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <b>Assistant Professor</b> at
+    <b>Associate Professor</b> at
     <a href='https://computationalscience.nl'>Computational Science Lab</a>, <br>
     <b>Program Director</b> of <a href='https://www.uva.nl/msc-computational-science'>MSc Computational Science</a> <br>
     University of Amsterdam    
