@@ -19,25 +19,51 @@ news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+# Landing page intro (rendered by _includes/home_intro.html) — edit the text here.
+hero:
+  mark: /assets/img/dt-mark.png
+  mark_dark: /assets/img/dt-mark-dark.png
+  kicker: Digital Twins in Healthcare
+  title: >
+    Simulating blood cell-by-cell to predict how clots form and
+    how vascular devices will perform in a patient.
+  lead: >
+    Scalable, credible computational models, from a single platelet to a patient's artery,
+    validated against experiments and built to run on the largest supercomputers.
+
+lanes:
+  - title: Thrombosis and cellular blood flow
+    text: >
+      Why do platelets aggregate here and not there? Cell-resolved models of shear,
+      transport, and clot growth.
+    partners: haematology, platelet biology, and microfluidics labs.
+    img: /assets/video/hemocell.gif
+    alt: Cell-resolved simulation of red blood cells and platelets
+    link: /research/#category-multiscale-simulations
+  - title: Devices and treatment planning
+    text: >
+      Virtual stenting, flow diverters, growth-adaptive grafts, and Fontan circulation
+      in patient-specific vessels.
+    partners: interventional clinicians, device makers, and imaging groups.
+    img: /assets/img/projects/fontan.jpg
+    img_fit: contain # show the whole image instead of cropping it to the frame
+    alt: Wall shear rate in a patient-specific Fontan vasculature
+    link: /research/#category-clinical-applications
+  - title: Scalable, trustworthy simulation
+    text: >
+      HemoCell, performance and energy modelling, and uncertainty quantification
+      for large-scale computing.
+    partners: HPC centres, computer scientists, and model developers.
+    img: /assets/video/load_balancing.gif
+    img_fit: contain
+    alt: Dynamic load balancing of a cellular blood flow simulation
+    link: /research/#category-high-performance-computing
 ---
-<div style="overflow: hidden;">
-<img src="{{ '/assets/img/DT-in-healthcare.jpg' | relative_url }}" alt="Logo" style="width: 100%; max-width: 680px; display: block; margin: 0.0rem auto;">
-</div>
-<br>
-<h5>
-I develop <b>computational models of human physiology</b> that combine high-performance computing, multiscale simulation and clinical data into <i>predictive digital twins</i> to improve patient care.
-</h5>
-<br>
-<div style="overflow: hidden;">
-<img src="{{ '/assets/img/Research-concept-full.jpg' | relative_url }}" alt="Research strategy for Digital Twins in Healthcare" style="width: 100%; max-width: 680px; display: block; margin: 0.0rem auto;">
-</div>
-<br>
-<br>
-<br>
 **Recent projects** <br>
 
 <a href="https://www.thromborisk.eu/">ThromboRisk</a> (EU MSCA, Co-PI, 2026); 
-&emsp;&emsp; <a href="https://vascularimmunology.nl/">Vacular Immunology</a> (NL, Co-PI, 2025) <br>
+&emsp;&emsp; <a href="https://vascularimmunology.nl/">Vascular Immunology</a> (NL, Co-PI, 2025) <br>
 
 <a href="https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-science/valorisation/mmd-hub/navigation/mmd-project-design-of-synthetic-vessels-for-children.html">MMD Impulse grant</a> (NL, PI, 2024); 
 &emsp;&emsp; <a href="https://dth-gemini.eu/">GEMINI</a> (EU Horizon, Co-PI, WP leader, 2024) <br>

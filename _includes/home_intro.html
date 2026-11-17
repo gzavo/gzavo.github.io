@@ -1,0 +1,40 @@
+<!-- _includes/home_intro.html — landing page hero and research lanes.
+     All text comes from the `hero` and `lanes` front matter of _pages/about.md. -->
+{%- if page.hero %}
+<section class="home-hero">
+  {%- if page.hero.mark %}
+  <img class="home-hero-mark home-hero-mark--light" src="{{ page.hero.mark | relative_url }}" alt="" width="207" height="187">
+  <img class="home-hero-mark home-hero-mark--dark" src="{{ page.hero.mark_dark | default: page.hero.mark | relative_url }}" alt="" width="207" height="187">
+  {%- endif %}
+  <div class="home-hero-text">
+    {%- if page.hero.kicker %}
+    <p class="home-hero-kicker">{{ page.hero.kicker }}</p>
+    {%- endif %}
+    <h2 class="home-hero-title">{{ page.hero.title }}</h2>
+  </div>
+</section>
+{%- if page.hero.lead %}
+<p class="home-hero-lead">{{ page.hero.lead }}</p>
+{%- endif %}
+{%- endif %}
+
+{%- if page.lanes %}
+<div class="home-lanes">
+  {%- for lane in page.lanes %}
+  <a class="home-lane" href="{{ lane.link | relative_url }}">
+    {%- if lane.img %}
+    <div class="home-lane-media{% if lane.img_fit == 'contain' %} home-lane-media--contain{% endif %}">
+      <img src="{{ lane.img | relative_url }}" alt="{{ lane.alt | default: '' }}" loading="lazy">
+    </div>
+    {%- endif %}
+    <div class="home-lane-body">
+      <h3 class="home-lane-title">{{ lane.title }}</h3>
+      <p class="home-lane-text">{{ lane.text }}</p>
+      {%- if lane.partners %}
+      <p class="home-lane-partners"><span>Works well with</span> {{ lane.partners }}</p>
+      {%- endif %}
+    </div>
+  </a>
+  {%- endfor %}
+</div>
+{%- endif %}
